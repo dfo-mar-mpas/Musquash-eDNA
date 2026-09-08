@@ -1,0 +1,5 @@
+Marker,Metric,Year,.y.,n,statistic,df,p,method,p.signif
+COI,Shannon Index,2022,diversity_value,26,2.1829059829059787,3,0.535,Kruskal-Wallis,ns
+COI,Shannon Index,2023,diversity_value,26,19.92692307692309,3,1.76e-4,Kruskal-Wallis,***
+COI,Shannon Index,2024,diversity_value,25,9.862307692307695,3,0.0198,Kruskal-Wallis,*
+COI,Shannon Index,2025,diversity_value,25,17.687692307692302,3,5.1e-4,Kruskal-Wallis,***

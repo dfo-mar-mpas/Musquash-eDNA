@@ -1,0 +1,5 @@
+Marker,Metric,Year,.y.,n,statistic,df,p,method,p.signif
+COI,Faith's PD,2022,diversity_value,26,3.1373219373219428,3,0.371,Kruskal-Wallis,ns
+COI,Faith's PD,2023,diversity_value,26,9.362962962962968,3,0.0248,Kruskal-Wallis,*
+COI,Faith's PD,2024,diversity_value,25,10.017384615384614,3,0.0184,Kruskal-Wallis,*
+COI,Faith's PD,2025,diversity_value,25,9.89123076923076,3,0.0195,Kruskal-Wallis,*

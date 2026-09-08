@@ -1,0 +1,16 @@
+Zone,Year,Marker,Metric,n,mean,sd,median,min,max
+Zone_1,2022,mifish,Observed Features (ASVs),10,110,40.62839729384691,110.5,37,177
+Zone_1,2023,mifish,Observed Features (ASVs),10,18.6,3.40587727318528,18.5,13,25
+Zone_1,2024,mifish,Observed Features (ASVs),10,75.7,16.2073371587617,72,48,103
+Zone_1,2025,mifish,Observed Features (ASVs),10,13.2,1.7511900715418263,13.5,10,16
+Zone_2A,2022,mifish,Observed Features (ASVs),2,40.5,50.204581464244875,40.5,5,76
+Zone_2A,2023,mifish,Observed Features (ASVs),8,13.875,4.38951673226759,12,10,20
+Zone_2A,2024,mifish,Observed Features (ASVs),8,79.875,16.923673191293734,76.5,58,102
+Zone_2A,2025,mifish,Observed Features (ASVs),8,11.375,1.685018016012207,11.5,9,14
+Zone_2B,2022,mifish,Observed Features (ASVs),3,58.666666666666664,35.697805721547276,63,21,92
+Zone_2B,2023,mifish,Observed Features (ASVs),3,13,1,13,12,14
+Zone_2B,2024,mifish,Observed Features (ASVs),3,90.66666666666667,13.576941236277534,98,75,99
+Zone_2B,2025,mifish,Observed Features (ASVs),3,13.333333333333334,2.516611478423583,13,11,16
+Zone_3,2023,mifish,Observed Features (ASVs),5,10.6,2.3021728866442674,11,7,13
+Zone_3,2024,mifish,Observed Features (ASVs),4,85,15.405626677721791,82,71,105
+Zone_3,2025,mifish,Observed Features (ASVs),4,10.75,1.2583057392117916,11,9,12

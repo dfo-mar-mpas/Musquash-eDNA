@@ -1,0 +1,67 @@
+# Constructed from biom file
+#OTU ID	Zone_2A	Zone_1	Zone_3	Zone_2B
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia tyrannus (Atlantic menhaden)	2.0	0.0	0.0	21.0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Myida;f__Myidae;g__Mya;s__Mya arenaria (softshell)	0.0	12.0	0.0	0.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Haleciidae;g__Halecium;s__Halecium halecinum (hydrozoans)	266.0	46.0	174.0	103.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Candidae;g__Caberea;s__Caberea ellisii (bryozoans)	3.0	0.0	0.0	7.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Siphonophorae;f__Agalmatidae;g__Nanomia;s__Nanomia cara (siphonophores)	4.0	3.0	5.0	5.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Gonothyraea;s__Gonothyraea loveni (hydrozoans)	0.0	12.0	0.0	0.0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Pectinida;f__Anomiidae;g__Heteranomia;s__Heteranomia squamula (bivalves)	6372.0	5375.0	4289.0	3866.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Terebellidae;g__Nicolea;s__Nicolea zostericola (polychaetes)	60.0	0.0	21.0	18.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Eunicida;f__Lumbrineridae;g__Ninoe;s__Ninoe nigripes (polychaetes)	15.0	0.0	8.0	3.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Sabellida;f__Sabellariidae;g__Sabellaria;s__Sabellaria vulgaris (polychaetes)	30.0	84.0	17.0	531.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	9.0	0.0	0.0	0.0
+k__Metazoa;p__Echinodermata;c__Echinoidea;o__Clypeasteroida;f__Echinarachniidae;g__Echinarachnius;s__Echinarachnius parma (sand dollars)	3.0	4.0	0.0	0.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia longissima (hydrozoans)	21.0	7071.0	0.0	6.0
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Decapoda;f__Carcinidae;g__Carcinus;s__Carcinus maenas (green crab)	15.0	32.0	4.0	2.0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Paracalanidae;g__Paracalanus;s__Paracalanus parvus (copepods)	362.0	0.0	0.0	54.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia dichotoma (sea thread hydroid)	14.0	118.0	0.0	0.0
+k__Metazoa;p__Porifera;c__Demospongiae;o__Suberitida;f__Halichondriidae;g__Halichondria;s__Halichondria panicea (sponges)	8.0	17.0	0.0	18.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Hartlaubella;s__Hartlaubella gelatinosa (hydrozoans)	46.0	505.0	39.0	32.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Vesiculariidae;g__Amathia;s__Amathia gracilis (bryozoans)	0.0	15.0	3.0	0.0
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Corophiidae;g__Corophium;s__Corophium volutator (beach hoppers, scuds and well shrimps)	10.0	162.0	4.0	0.0
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Semibalanus;s__Semibalanus balanoides (northern acorn barnacle)	22.0	25.0	15.0	18.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Polydora;s__Polydora cornuta (polychaetes)	5.0	47.0	0.0	0.0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Nuculida;f__Nuculidae;g__Nucula;s__Nucula proxima (atlantic nutclam)	392.0	1214.0	27.0	14.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Sertulariidae;g__Dynamena;s__Dynamena pumila (hydrozoans)	6.0	29.0	45.0	77.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Cirratulidae;g__Dodecaceria;s__Dodecaceria concharum (polychaetes)	0.0	17.0	0.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	6.0	0.0	3.0	0.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Membraniporidae;g__Membranipora;s__Membranipora membranacea (bryozoans)	774.0	605.0	602.0	495.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Streblospio;s__Streblospio benedicti (polychaetes)	127.0	493.0	12.0	0.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Hydractiniidae;g__Clava;s__Clava multicornis (club hydroid)	0.0	6.0	5.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	13.0	11.0	0.0	0.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Tubulariidae;g__Tubularia;s__Tubularia indivisa (hydrozoans)	4.0	0.0	8.0	0.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia geniculata (knotted thread hydroid)	21.0	0.0	0.0	42.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Flustridae;g__Flustra;s__Flustra foliacea (greater hornwrack)	60.0	10.0	97.0	42.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	6.0	68.0	6.0	0.0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Littorinidae;g__Littorina;s__Littorina saxatilis (gastropods)	0.0	7.0	13.0	0.0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Clausocalanidae;g__Pseudocalanus;s__Pseudocalanus newmani (copepods)	0.0	126.0	68.0	0.0
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Corophiidae;g__Monocorophium;s__Monocorophium insidiosum (beach hoppers, scuds and well shrimps)	0.0	13.0	0.0	0.0
+k__Metazoa;p__Annelida;c__Clitellata;o__Tubificida;f__Naididae;g__Tubificoides;s__Tubificoides benedii (sludge worms)	0.0	16.0	0.0	0.0
+k__Metazoa;p__Mollusca;c__Cephalopoda;o__Oegopsida;f__Ommastrephidae;g__Illex;s__Illex coindetii (arrow squids)	3.0	0.0	6.0	0.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Phyllodocida;f__Syllidae;g__Myrianida;s__Myrianida prolifera (polychaetes)	4.0	6.0	0.0	6.0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Lacunidae;g__Lacuna;s__Lacuna vincta (gastropods)	6.0	0.0	4.0	0.0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Squaliformes;f__Squalidae;g__Squalus;s__Squalus acanthias (spiny dogfish)	0.0	6.0	3.0	8.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Electridae;g__Electra;s__Electra pilosa (bryozoans)	730.0	468.0	460.0	106.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Terebellidae;g__Pista;s__Pista maculata (polychaetes)	312.0	0.0	0.0	0.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Marenzelleria;s__Marenzelleria viridis (polychaetes)	0.0	24.0	0.0	0.0
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Amphibalanus;s__Amphibalanus improvisus (acorn barnacles)	14.0	16.0	3.0	6.0
+k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Phocoenidae;g__Phocoena;s__Phocoena phocoena (harbor porpoise)	3.0	4.0	0.0	0.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Alcyonidiidae;g__Alcyonidium;s__Alcyonidium polyoum (bryozoans)	5.0	73.0	7.0	0.0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Centropagidae;g__Centropages;s__Centropages hamatus (copepods)	3.0	0.0	521.0	0.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Bugulidae;g__Dendrobeania;s__Dendrobeania murrayana (bryozoans)	7.0	0.0	5.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	37.0	129.0	7.0	7.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Calycella;s__Calycella syringa (hydrozoans)	7.0	0.0	41.0	0.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__;f__Maldanidae;g__Clymenella;s__Clymenella torquata (bamboo worm)	43.0	174.0	0.0	9.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Phyllodocida;f__Nereididae;g__Alitta;s__Alitta virens (sandworms)	42.0	83.0	6.0	28.0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Nudibranchia;f__Onchidorididae;g__Onchidoris;s__Onchidoris muricata (gastropods)	0.0	3.0	0.0	3.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.0	201.0	5.0	0.0
+k__Metazoa;p__Arthropoda;c__Branchiopoda;o__Diplostraca;f__Podonidae;g__Evadne;s__Evadne nordmanni (water fleas)	10.0	0.0	4.0	0.0
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Talitridae;g__Orchestia;s__Orchestia grillus (beach hoppers, scuds and well shrimps)	0.0	9.0	2.0	0.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Flabelligeridae;g__Pherusa;s__Pherusa affinis (polychaetes)	16.0	0.0	5.0	0.0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Phyllodocida;f__Nereididae;g__Hediste;s__Hediste diversicolor (sandworms)	0.0	6.0	4.0	0.0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Cyclopoida;f__Oithonidae;g__Oithona;s__Oithona similis (copepods)	9.0	31.0	0.0	0.0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Vesiculariidae;g__Amathia;s__Amathia imbricata (bryozoans)	6.0	3.0	0.0	2.0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Laomedea;s__Laomedea flexuosa (hydrozoans)	0.0	468.0	12.0	9.0
+k__Metazoa;p__Echinodermata;c__Asteroidea;o__Forcipulatida;f__Asteriidae;g__Leptasterias;s__Leptasterias littoralis (six-rayed sea stars)	2.0	0.0	0.0	7.0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Littorinidae;g__Littorina;s__Littorina obtusata (gastropods)	0.0	14.0	0.0	0.0

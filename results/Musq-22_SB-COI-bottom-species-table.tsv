@@ -1,0 +1,27 @@
+# Constructed from biom file	
+#OTU ID	bottom
+k__Metazoa;p__Ctenophora;c__Tentaculata;o__Cydippida;f__Pleurobrachiidae;g__Pleurobrachia;s__Pleurobrachia pileus (sea gooseberries)	3
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Venerida;f__Mactridae;g__Spisula;s__Spisula solidissima (Atlantic surf clam)	6
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Vesiculariidae;g__Amathia;s__Amathia gracilis (bryozoans)	7
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Amphibalanus;s__Amphibalanus improvisus (acorn barnacles)	8
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Tubulariidae;g__Tubularia;s__Tubularia indivisa (hydrozoans)	9
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	12
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Nuculanida sp.;f__Yoldiidae;g__Yoldia;s__Yoldia limatula (file yoldia)	13
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Semibalanus;s__Semibalanus balanoides (northern acorn barnacle)	14
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia geniculata (knotted thread hydroid)	20
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Streblospio;s__Streblospio benedicti (polychaetes)	29
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Hartlaubella;s__Hartlaubella gelatinosa (hydrozoans)	39
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Siphonophorae;f__Agalmatidae;g__Nanomia;s__Nanomia cara (siphonophores)	47
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Sertulariidae;g__Dynamena;s__Dynamena pumila (hydrozoans)	55
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Haleciidae;g__Halecium;s__Halecium halecinum (hydrozoans)	61
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Mytilida;f__Mytilidae;g__Modiolus;s__Modiolus modiolus (northern horsemussel)	78
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Centropagidae;g__Centropages;s__Centropages typicus (copepods)	107
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Clausocalanidae;g__Pseudocalanus;s__Pseudocalanus moultoni (copepods)	176
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Flustridae;g__Flustra;s__Flustra foliacea (greater hornwrack)	243
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Paracalanidae;g__Paracalanus;s__Paracalanus parvus (copepods)	302
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Membraniporidae;g__Membranipora;s__Membranipora membranacea (bryozoans)	375
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Alcyonidiidae;g__Alcyonidium;s__Alcyonidium polyoum (bryozoans)	543
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Pectinida;f__Anomiidae;g__Heteranomia;s__Heteranomia squamula (bivalves)	1244
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Cyclopoida;f__Oithonidae;g__Oithona;s__Oithona similis (copepods)	1387
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Electridae;g__Electra;s__Electra pilosa (bryozoans)	3337
+k__Metazoa;p__Annelida;c__Polychaeta;o__;f__Capitellidae;g__Capitella;s__Capitella capitata (polychaetes)	34222

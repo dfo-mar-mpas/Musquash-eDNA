@@ -1,0 +1,16 @@
+Year,Zone,cld,Marker,Metric
+2022,Zone_1,a,mifish,Shannon Index
+2022,Zone_2A,a,mifish,Shannon Index
+2022,Zone_2B,a,mifish,Shannon Index
+2023,Zone_1,a,mifish,Shannon Index
+2023,Zone_2A,b,mifish,Shannon Index
+2023,Zone_2B,ab,mifish,Shannon Index
+2023,Zone_3,b,mifish,Shannon Index
+2024,Zone_1,a,mifish,Shannon Index
+2024,Zone_2A,ab,mifish,Shannon Index
+2024,Zone_2B,b,mifish,Shannon Index
+2024,Zone_3,ab,mifish,Shannon Index
+2025,Zone_1,a,mifish,Shannon Index
+2025,Zone_2A,a,mifish,Shannon Index
+2025,Zone_2B,a,mifish,Shannon Index
+2025,Zone_3,a,mifish,Shannon Index

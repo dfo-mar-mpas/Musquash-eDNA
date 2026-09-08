@@ -1,0 +1,5 @@
+Marker,Metric,Year,.y.,n,statistic,df,p,method,p.signif
+mifish,Shannon Index,2022,diversity_value,15,2.586666666666666,2,0.274,Kruskal-Wallis,ns
+mifish,Shannon Index,2023,diversity_value,26,15.429629629629645,3,0.00148,Kruskal-Wallis,**
+mifish,Shannon Index,2024,diversity_value,25,10.94723076923077,3,0.012,Kruskal-Wallis,*
+mifish,Shannon Index,2025,diversity_value,25,2.094923076923081,3,0.553,Kruskal-Wallis,ns

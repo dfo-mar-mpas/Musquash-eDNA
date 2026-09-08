@@ -1,0 +1,100 @@
+[2026-04-16 11:57:02.22929] Processing: COI | aitchison
+[2026-04-16 11:57:02.303973]   File: Musq-22-COI-aitchison.tsv | Year: 2022
+[2026-04-16 11:57:02.312286]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.313467]   File: Musq-23-COI-aitchison.tsv | Year: 2023
+[2026-04-16 11:57:02.349993]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.350889]   File: Musq-24-COI-aitchison.tsv | Year: 2024
+[2026-04-16 11:57:02.358799]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.359788]   File: Musq-25-COI-aitchison.tsv | Year: 2025
+[2026-04-16 11:57:02.367715]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.369164] Finished: COI | aitchison
+[2026-04-16 11:57:02.370769] Processing: COI | bray
+[2026-04-16 11:57:02.379784]   File: Musq-22-COI-bray-curtis.tsv | Year: 2022
+[2026-04-16 11:57:02.39914]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.400054]   File: Musq-23-COI-bray-curtis.tsv | Year: 2023
+[2026-04-16 11:57:02.418899]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.420034]   File: Musq-24-COI-bray-curtis.tsv | Year: 2024
+[2026-04-16 11:57:02.439719]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.440907]   File: Musq-25-COI-bray-curtis.tsv | Year: 2025
+[2026-04-16 11:57:02.459249]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.460468] Finished: COI | bray
+[2026-04-16 11:57:02.461984] Processing: COI | jaccard
+[2026-04-16 11:57:02.472835]   File: Musq-22-COI-jaccard.tsv | Year: 2022
+[2026-04-16 11:57:02.492517]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.493593]   File: Musq-23-COI-jaccard.tsv | Year: 2023
+[2026-04-16 11:57:02.512455]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.513354]   File: Musq-24-COI-jaccard.tsv | Year: 2024
+[2026-04-16 11:57:02.532917]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.533855]   File: Musq-25-COI-jaccard.tsv | Year: 2025
+[2026-04-16 11:57:02.555342]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.556456] Finished: COI | jaccard
+[2026-04-16 11:57:02.557556] Processing: COI | unw
+[2026-04-16 11:57:02.566221]   File: Musq-22-COI-unw-unifrac.tsv | Year: 2022
+[2026-04-16 11:57:02.589096]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.590108]   File: Musq-23-COI-unw-unifrac.tsv | Year: 2023
+[2026-04-16 11:57:02.61356]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.614543]   File: Musq-24-COI-unw-unifrac.tsv | Year: 2024
+[2026-04-16 11:57:02.633352]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.634527]   File: Musq-25-COI-unw-unifrac.tsv | Year: 2025
+[2026-04-16 11:57:02.654787]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.655989] Finished: COI | unw
+[2026-04-16 11:57:02.656984] Processing: COI | wt
+[2026-04-16 11:57:02.668249]   File: Musq-22-COI-wt-unifrac.tsv | Year: 2022
+[2026-04-16 11:57:02.68698]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.688131]   File: Musq-23-COI-wt-unifrac.tsv | Year: 2023
+[2026-04-16 11:57:02.70699]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.708374]   File: Musq-24-COI-wt-unifrac.tsv | Year: 2024
+[2026-04-16 11:57:02.728535]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.729441]   File: Musq-25-COI-wt-unifrac.tsv | Year: 2025
+[2026-04-16 11:57:02.75163]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.75259] Finished: COI | wt
+[2026-04-16 11:57:02.753491] Processing: mifish | aitchison
+[2026-04-16 11:57:02.761879]   File: Musq-22-mifish-aitchison.tsv | Year: 2022
+[2026-04-16 11:57:02.781164]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.782139]   File: Musq-23-mifish-aitchison.tsv | Year: 2023
+[2026-04-16 11:57:02.804839]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.805785]   File: Musq-24-mifish-aitchison.tsv | Year: 2024
+[2026-04-16 11:57:02.825208]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.826261]   File: Musq-25-mifish-aitchison.tsv | Year: 2025
+[2026-04-16 11:57:02.849842]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.850878] Finished: mifish | aitchison
+[2026-04-16 11:57:02.851951] Processing: mifish | bray
+[2026-04-16 11:57:02.86337]   File: Musq-22-mifish-bray-curtis.tsv | Year: 2022
+[2026-04-16 11:57:02.87817]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.879232]   File: Musq-23-mifish-bray-curtis.tsv | Year: 2023
+[2026-04-16 11:57:02.89914]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.90025]   File: Musq-24-mifish-bray-curtis.tsv | Year: 2024
+[2026-04-16 11:57:02.917367]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.918556]   File: Musq-25-mifish-bray-curtis.tsv | Year: 2025
+[2026-04-16 11:57:02.935312]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.936283] Finished: mifish | bray
+[2026-04-16 11:57:02.937224] Processing: mifish | jaccard
+[2026-04-16 11:57:02.944745]   File: Musq-22-mifish-jaccard.tsv | Year: 2022
+[2026-04-16 11:57:02.963734]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.96485]   File: Musq-23-mifish-jaccard.tsv | Year: 2023
+[2026-04-16 11:57:02.987474]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:02.988827]   File: Musq-24-mifish-jaccard.tsv | Year: 2024
+[2026-04-16 11:57:03.00899]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.010019]   File: Musq-25-mifish-jaccard.tsv | Year: 2025
+[2026-04-16 11:57:03.029278]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.030468] Finished: mifish | jaccard
+[2026-04-16 11:57:03.031526] Processing: mifish | unw
+[2026-04-16 11:57:03.046175]   File: Musq-22-mifish-unw-unifrac.tsv | Year: 2022
+[2026-04-16 11:57:03.110087]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.11166]   File: Musq-23-mifish-unw-unifrac.tsv | Year: 2023
+[2026-04-16 11:57:03.142422]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.144857]   File: Musq-24-mifish-unw-unifrac.tsv | Year: 2024
+[2026-04-16 11:57:03.17079]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.172011]   File: Musq-25-mifish-unw-unifrac.tsv | Year: 2025
+[2026-04-16 11:57:03.18854]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.189798] Finished: mifish | unw
+[2026-04-16 11:57:03.19135] Processing: mifish | wt
+[2026-04-16 11:57:03.202147]   File: Musq-22-mifish-wt-unifrac.tsv | Year: 2022
+[2026-04-16 11:57:03.22157]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.222742]   File: Musq-23-mifish-wt-unifrac.tsv | Year: 2023
+[2026-04-16 11:57:03.244415]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.245835]   File: Musq-24-mifish-wt-unifrac.tsv | Year: 2024
+[2026-04-16 11:57:03.267072]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.268045]   File: Musq-25-mifish-wt-unifrac.tsv | Year: 2025
+[2026-04-16 11:57:03.292748]   SKIPPED: <3 valid samples after metadata filtering
+[2026-04-16 11:57:03.293998] Finished: mifish | wt

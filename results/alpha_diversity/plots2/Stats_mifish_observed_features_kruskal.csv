@@ -1,0 +1,5 @@
+Marker,Metric,Year,.y.,n,statistic,df,p,method,p.signif
+mifish,Observed Features (ASVs),2022,diversity_value,15,5.665116279069761,2,0.0589,Kruskal-Wallis,ns
+mifish,Observed Features (ASVs),2023,diversity_value,26,11.290030842845605,3,0.0103,Kruskal-Wallis,*
+mifish,Observed Features (ASVs),2024,diversity_value,25,2.8438996138996218,3,0.416,Kruskal-Wallis,ns
+mifish,Observed Features (ASVs),2025,diversity_value,25,7.218737672583827,3,0.0652,Kruskal-Wallis,ns

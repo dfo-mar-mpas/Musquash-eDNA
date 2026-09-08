@@ -1,0 +1,36 @@
+# Constructed from biom file
+#OTU ID	Zone_1	Zone_2A	Zone_3	Zone_2B
+k__Metazoa;p__Chordata;c__Actinopteri;o__Anguilliformes;f__Anguillidae;g__Anguilla;s__Anguilla rostrata (American eel)	134992.0	92.0	11370.0	14.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	1515537.0	197146.0	18251.0	9110.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gaidropsaridae;g__Enchelyopus;s__Enchelyopus cimbrius (fourbeard rockling)	796.0	6560.0	0.0	24174.0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja ocellata (winter skate)	39.0	83694.0	22.0	28.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia tyrannus (Atlantic menhaden)	484097.0	364342.0	258282.0	223599.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa aestivalis (blueback shad)	104430.0	342063.0	30972.0	21329.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Catostomidae;g__Catostomus;s__Catostomus commersonii (white sucker)	22229.0	0.0	0.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	143.0	28626.0	25398.0	63528.0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Alopias;s__Alopias vulpinus (thresher shark)	0.0	2.0	2968.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1012656.0	293731.0	22658.0	6251.0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Carcharodon;s__Carcharodon carcharias (great white shark)	0.0	0.0	1378.0	842.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Apeltes;s__Apeltes quadracus (fourspine stickleback)	6196.0	0.0	0.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	65720.0	96428.0	14931.0	40204.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass)	54066.0	2276.0	5.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	2721.0	6912.0	14431.0	9719.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Scombriformes;f__Scombridae;g__Scomber;s__Scomber scombrus (Atlantic mackerel)	175.0	26179.0	19245.0	11095.0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja erinaceus (little skate)	6290.0	3766.0	17592.0	4175.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven)	7.0	5992.0	8.0	23785.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa sapidissima (American shad)	8114.0	6448.0	7259.0	8756.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	30907.0	69058.0	36704.0	36.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	174.0	65.0	16021.0	106568.0
+k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Phocoenidae;g__Phocoena;s__Phocoena phocoena (harbor porpoise)	16098.0	564.0	3167.0	241.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	9333.0	104362.0	142435.0	17979.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus thompsonii (deepwater sculpin)	2934.0	10031.0	23486.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Lophiiformes;f__Lophiidae;g__Lophius;s__Lophius americanus (American angler)	0.0	0.0	4.0	15075.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth)	7580.0	32437.0	5980.0	12974.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Acipenseriformes;f__Acipenseridae;g__Acipenser;s__Acipenser oxyrinchus (Atlantic sturgeon)	11380.0	10457.0	6103.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	16031.0	0.0	0.0	8759.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus aenaeus (grubby sculpin)	0.0	0.0	27955.0	8.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Leuciscidae;g__Rhinichthys;s__Rhinichthys atratulus (blacknose dace)	2419.0	0.0	0.0	0.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	278720.0	267258.0	60916.0	10565.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	42334.0	78126.0	6832.0	13152.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Leuciscidae;g__Semotilus;s__Semotilus atromaculatus (creek chub)	3559.0	0.0	0.0	2.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Phycidae;g__Urophycis;s__Urophycis tenuis (white hake)	44697.0	68479.0	7100.0	14819.0

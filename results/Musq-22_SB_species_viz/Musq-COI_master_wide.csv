@@ -1,0 +1,47 @@
+Taxonomy,Species,2022 All data,surface_2022_surface,bottom_2022_bottom
+k__Metazoa;p__Annelida;c__Polychaeta;o__;f__Capitellidae;g__Capitella;s__Capitella capitata (polychaetes),Capitella capitata,1,20477,34222
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Electridae;g__Electra;s__Electra pilosa (bryozoans),Electra pilosa,1,1631,3337
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Pectinida;f__Anomiidae;g__Heteranomia;s__Heteranomia squamula (bivalves),Heteranomia squamula,1,3263,1244
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Cyclopoida;f__Oithonidae;g__Oithona;s__Oithona similis (copepods),Oithona similis,1,510,1387
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Membraniporidae;g__Membranipora;s__Membranipora membranacea (bryozoans),Membranipora membranacea,1,205,375
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Alcyonidiidae;g__Alcyonidium;s__Alcyonidium polyoum (bryozoans),Alcyonidium polyoum,1,17,543
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Paracalanidae;g__Paracalanus;s__Paracalanus parvus (copepods),Paracalanus parvus,1,176,302
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Flustridae;g__Flustra;s__Flustra foliacea (greater hornwrack),Flustra foliacea,1,160,243
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Clausocalanidae;g__Pseudocalanus;s__Pseudocalanus moultoni (copepods),Pseudocalanus moultoni,1,30,176
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Hartlaubella;s__Hartlaubella gelatinosa (hydrozoans),Hartlaubella gelatinosa,1,129,39
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Venerida;f__Mactridae;g__Spisula;s__Spisula solidissima (Atlantic surf clam),Spisula solidissima,1,162,6
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Centropagidae;g__Centropages;s__Centropages typicus (copepods),Centropages typicus,1,42,107
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Haleciidae;g__Halecium;s__Halecium halecinum (hydrozoans),Halecium halecinum,1,43,61
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Mytilida;f__Mytilidae;g__Modiolus;s__Modiolus modiolus (northern horsemussel),Modiolus modiolus,1,19,78
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia geniculata (knotted thread hydroid),Obelia geniculata,1,60,20
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Sertulariidae;g__Dynamena;s__Dynamena pumila (hydrozoans),Dynamena pumila,1,13,55
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Streblospio;s__Streblospio benedicti (polychaetes),Streblospio benedicti,1,31,29
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Siphonophorae;f__Agalmatidae;g__Nanomia;s__Nanomia cara (siphonophores),Nanomia cara,1,11,47
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog),Fundulus heteroclitus,1,55,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Terebellidae;g__Nicolea;s__Nicolea zostericola (polychaetes),Nicolea zostericola,1,40,0
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Amphibalanus;s__Amphibalanus improvisus (acorn barnacles),Amphibalanus improvisus,1,18,8
+k__Metazoa;p__Ctenophora;c__Tentaculata;o__Cydippida;f__Pleurobrachiidae;g__Pleurobrachia;s__Pleurobrachia pileus (sea gooseberries),Pleurobrachia pileus,1,19,3
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Tubulariidae;g__Tubularia;s__Tubularia indivisa (hydrozoans),Tubularia indivisa,1,12,9
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod),Microgadus tomcod,1,7,12
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Decapoda;f__Carcinidae;g__Carcinus;s__Carcinus maenas (green crab),Carcinus maenas,1,19,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Sabellida;f__Sabellariidae;g__Sabellaria;s__Sabellaria vulgaris (polychaetes),Sabellaria vulgaris,1,14,0
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Semibalanus;s__Semibalanus balanoides (northern acorn barnacle),Semibalanus balanoides,1,0,14
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia dichotoma (sea thread hydroid),Obelia dichotoma,1,14,0
+k__Metazoa;p__Echinodermata;c__Echinoidea;o__Camarodonta;f__Strongylocentrotidae;g__Strongylocentrotus;s__Strongylocentrotus droebachiensis (green sea urchin),Strongylocentrotus droebachiensis,1,13,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Nuculanida sp.;f__Yoldiidae;g__Yoldia;s__Yoldia limatula (file yoldia),Yoldia limatula,1,0,13
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Vesiculariidae;g__Amathia;s__Amathia gracilis (bryozoans),Amathia gracilis,1,0,7
+,Osmerus mordax,1,0,0
+,Palio dubia,1,0,0
+,Merluccius bilinearis,1,0,0
+,Hediste diversicolor,1,0,0
+,Polydora cornuta,1,0,0
+,Halichondria panicea,1,0,0
+,Pseudopleuronectes americanus,1,0,0
+,Eurytemora affinis,1,0,0
+,Corophium volutator,1,0,0
+,Clausocalanus pergens,1,0,0
+,Centropages hamatus,1,0,0
+,Bougainvillia muscus,1,0,0
+,Tubificoides benedii,1,0,0
+,Balanus balanus,1,0,0
+,Metridia lucens,1,0,0

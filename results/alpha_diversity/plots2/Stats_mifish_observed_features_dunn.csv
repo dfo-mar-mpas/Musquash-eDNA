@@ -1,0 +1,22 @@
+Marker,Metric,Year,.y.,group1,group2,n1,n2,statistic,p,p.adj,p.adj.signif
+mifish,Observed Features (ASVs),2022,diversity_value,Zone_1,Zone_2A,10,2,-1.993639259125815,0.04619149174432743,0.13857447523298227,ns
+mifish,Observed Features (ASVs),2022,diversity_value,Zone_1,Zone_2B,10,3,-1.6659353470970317,0.09572629239733016,0.14358943859599524,ns
+mifish,Observed Features (ASVs),2022,diversity_value,Zone_2A,Zone_2B,2,3,0.49033594412785675,0.6238961960277668,0.6238961960277668,ns
+mifish,Observed Features (ASVs),2023,diversity_value,Zone_1,Zone_2A,10,8,-2.1590751402842834,0.030844337943599177,0.09253301383079754,ns
+mifish,Observed Features (ASVs),2023,diversity_value,Zone_1,Zone_2B,10,3,-1.601561917785818,0.1092525176919609,0.2185050353839218,ns
+mifish,Observed Features (ASVs),2023,diversity_value,Zone_1,Zone_3,10,5,-3.1573743884658962,0.0015919680759879928,0.009551808455927957,**
+mifish,Observed Features (ASVs),2023,diversity_value,Zone_2A,Zone_2B,8,3,-0.04451656875082758,0.9644926451157886,0.9644926451157886,ns
+mifish,Observed Features (ASVs),2023,diversity_value,Zone_2A,Zone_3,8,5,-1.2370480842080005,0.21606923182952292,0.32410384774428436,ns
+mifish,Observed Features (ASVs),2023,diversity_value,Zone_2B,Zone_3,3,5,-0.9244023874976198,0.3552768521365326,0.4263322225638391,ns
+mifish,Observed Features (ASVs),2024,diversity_value,Zone_1,Zone_2A,10,8,0.39103532181712575,0.6957711273285214,0.6957711273285214,ns
+mifish,Observed Features (ASVs),2024,diversity_value,Zone_1,Zone_2B,10,3,1.4924381217898277,0.13558432751479052,0.5640627008240742,ns
+mifish,Observed Features (ASVs),2024,diversity_value,Zone_1,Zone_3,10,4,1.075767277071622,0.2820313504120371,0.5640627008240742,ns
+mifish,Observed Features (ASVs),2024,diversity_value,Zone_2A,Zone_2B,8,3,1.1771860242828813,0.23912126559963248,0.5640627008240742,ns
+mifish,Observed Features (ASVs),2024,diversity_value,Zone_2A,Zone_3,8,4,0.7363952690491652,0.46149018293845584,0.6922352744076837,ns
+mifish,Observed Features (ASVs),2024,diversity_value,Zone_2B,Zone_3,3,4,-0.4530341419930319,0.6505241568147301,0.6957711273285214,ns
+mifish,Observed Features (ASVs),2025,diversity_value,Zone_1,Zone_2A,10,8,-1.9762727987008637,0.04812388866130765,0.14437166598392295,ns
+mifish,Observed Features (ASVs),2025,diversity_value,Zone_1,Zone_2B,10,3,-0.08709823339573837,0.9305934295969436,0.9305934295969436,ns
+mifish,Observed Features (ASVs),2025,diversity_value,Zone_1,Zone_3,10,4,-2.2096384575924053,0.027130264041246112,0.14437166598392295,ns
+mifish,Observed Features (ASVs),2025,diversity_value,Zone_2A,Zone_2B,8,3,1.2999841380530488,0.19360640570630466,0.29040960855945697,ns
+mifish,Observed Features (ASVs),2025,diversity_value,Zone_2A,Zone_3,8,4,-0.6038992300697985,0.5459106407283021,0.6550927688739625,ns
+mifish,Observed Features (ASVs),2025,diversity_value,Zone_2B,Zone_3,3,4,-1.6365093530983092,0.10173302981910287,0.20346605963820574,ns

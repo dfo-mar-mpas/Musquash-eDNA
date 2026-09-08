@@ -1,0 +1,19 @@
+# Constructed from biom file
+#OTU ID	Zone_2B	Zone_3	Zone_2A	Zone_1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia tyrannus (Atlantic menhaden)	7034577.0	6677667.0	7621703.0	3911183.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Anguilliformes;f__Anguillidae;g__Anguilla;s__Anguilla rostrata (American eel)	0.0	0.0	0.0	4952304.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.0	0.0	4026978.0	7790487.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Catostomidae;g__Catostomus;s__Catostomus commersonii (white sucker)	0.0	0.0	0.0	2067147.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	1081373.0	21739.0	830218.0	4811.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa aestivalis (blueback shad)	250823.0	116748.0	254706.0	577360.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Scombriformes;f__Scombridae;g__Scomber;s__Scomber scombrus (Atlantic mackerel)	0.0	0.0	1339950.0	1039376.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	0.0	0.0	186518.0	1159336.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	0.0	102026.0	1206008.0	1166706.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	844195.0	300075.0	0.0	605968.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.0	0.0	168388.0	421643.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass)	0.0	0.0	105811.0	144011.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	555.0	0.0	569.0	1263.0
+k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Phocoenidae;g__Phocoena;s__Phocoena phocoena (harbor porpoise)	0.0	0.0	1386.0	511.0
+k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Phocidae;g__Phoca;s__Phoca vitulina (harbor seal)	0.0	1078.0	0.0	7947.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Sprattus;s__Sprattus sprattus (European sprat)	2651.0	711.0	0.0	2008.0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.0	0.0	0.0	44165.0

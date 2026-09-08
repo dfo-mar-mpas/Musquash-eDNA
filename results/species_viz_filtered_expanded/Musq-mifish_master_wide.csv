@@ -1,0 +1,62 @@
+Taxonomy,Species,Zone_1_2022,Zone_2A_2022,Zone_2B_2022,Zone_3_2022,Zone_1_2023_ABL,Zone_2A_2023_ABL,Zone_2B_2023_ABL,Zone_3_2023_ABL,Zone_1_2023_CEGA,Zone_2A_2023_CEGA,Zone_2B_2023_CEGA,Zone_3_2023_CEGA,Zone_1_2024,Zone_2A_2024,Zone_2B_2024,Zone_3_2024,Zone_1_2025,Zone_2A_2025,Zone_2B_2025,Zone_3_2025,Cooper et al. 2021,Ipsen et al. 2013,Arens et al. 2007,Singh et al. 2000
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia tyrannus (Atlantic menhaden),Brevoortia tyrannus,2603252,1073232,6274541,6094309,0,0,24,8,3911183,7621703,7034577,6677667,484097,364342,223599,258282,0,0,0,0,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog),Fundulus heteroclitus,22096275,907536,14,2322868,418217,112461,5436,7779,1159336,186518,0,0,1012656,293731,6251,22658,865063,250157,5555,92367,0,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod),Microgadus tomcod,8215221,0,4,1156413,677462,287466,32735,7725,7790487,4026978,0,0,1515537,197146,9110,18251,1720644,39099,14513,2031,1,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring),Clupea harengus,1391385,4908165,1737440,3491980,15159,63284,41244,88746,605968,0,844195,300075,9333,104362,17979,142435,108819,963571,631947,497413,0,1,0,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gaidropsaridae;g__Enchelyopus;s__Enchelyopus cimbrius (fourbeard rockling),Enchelyopus cimbrius,4,1212882,11260544,565,3,0,11857,0,0,0,0,0,796,6560,24174,0,0,0,0,0,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden),Brevoortia patronus,41,4935660,68356,198,511311,780987,764324,1024932,4811,830218,1081373,21739,16031,0,8759,0,366217,274383,310398,257991,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Anguilliformes;f__Anguillidae;g__Anguilla;s__Anguilla rostrata (American eel),Anguilla rostrata,3289770,0,0,0,445573,36211,172,251,4952304,0,0,0,134992,92,14,11370,22007,8,20,6,1,1,0,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside),Menidia menidia,2981341,470525,0,0,146065,102397,3380,26935,1166706,1206008,0,102026,278720,267258,10565,60916,287751,98547,30753,337,1,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife),Alosa pseudoharengus,106,2925182,5,388606,27093,12157,0,4039,1263,569,555,0,42334,78126,13152,6832,85915,70794,70387,114118,1,1,0,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Scombriformes;f__Scombridae;g__Scomber;s__Scomber scombrus (Atlantic mackerel),Scomber scombrus,0,2,10,3,49,62241,6853,0,1039376,1339950,0,0,175,26179,11095,19245,24,18798,3756,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Catostomidae;g__Catostomus;s__Catostomus commersonii (white sucker),Catostomus commersonii,0,0,0,0,149914,17668,47,33,2067147,0,0,0,22229,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Phycidae;g__Urophycis;s__Urophycis chuss (red hake),Urophycis chuss,0,0,49,2187196,1307,14281,0,4484,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner),Tautogolabrus adspersus,0,0,4,1928475,4,11,17865,12,0,0,0,0,174,65,106568,16021,2745,6093,10178,54002,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa aestivalis (blueback shad),Alosa aestivalis,0,0,0,0,51771,85563,20524,20271,577360,254706,250823,116748,104430,342063,21329,30972,0,0,0,0,0,0,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa sapidissima (American shad),Alosa sapidissima,0,0,1605706,3,0,0,0,0,0,0,0,0,8114,6448,8756,7259,0,0,0,0,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder),Pseudopleuronectes americanus,0,0,0,0,23581,44502,12343,10332,421643,168388,0,0,30907,69058,36,36704,196438,63571,23900,250,1,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt),Osmerus mordax,66925,195568,0,0,102311,74222,56,4835,44165,0,0,0,65720,96428,40204,14931,181518,93293,97,152,1,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass),Morone saxatilis,0,0,0,0,79492,9450,8,8571,144011,105811,0,0,54066,2276,0,5,92910,74,23,18,1,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel),Pholis gunnellus,0,0,0,0,11136,12486,10629,0,0,0,0,0,143,28626,63528,25398,24154,46008,58788,112,0,1,0,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Phycidae;g__Urophycis;s__Urophycis tenuis (white hake),Urophycis tenuis,0,0,0,0,4,2695,0,0,0,0,0,0,44697,68479,14819,7100,46204,37,0,0,1,1,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth),Cryptacanthodes maculatus,0,0,0,0,0,13952,7652,7832,0,0,0,0,7580,32437,12974,5980,13108,40266,7415,26,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Gadus;s__Gadus morhua (Atlantic cod),Gadus morhua,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,40,110338,157,1,1,0,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout),Zoarces americanus,0,0,0,0,0,3793,9634,0,0,0,0,0,2721,6912,9719,14431,3638,6664,0,32181,0,0,0,1
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja ocellata (winter skate),Leucoraja ocellata,0,0,0,0,0,0,0,0,0,0,0,0,39,83694,28,22,840,0,3555,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus aenaeus (grubby sculpin),Myoxocephalus aenaeus,0,0,0,0,6181,5324,0,0,0,0,0,0,0,0,8,27955,38294,36,0,46,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Acipenseriformes;f__Acipenseridae;g__Acipenser;s__Acipenser oxyrinchus (Atlantic sturgeon),Acipenser oxyrinchus,0,0,0,0,0,0,0,0,0,0,0,0,11380,10457,0,6103,45962,10,3,19,1,0,0,0
+k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Phocoenidae;g__Phocoena;s__Phocoena phocoena (harbor porpoise),Phocoena phocoena,31086,0,0,0,2269,5624,0,1221,511,1386,0,0,16098,564,241,3167,18,2496,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven),Hemitripterus americanus,0,0,0,0,0,0,0,0,0,0,0,0,7,5992,23785,8,6110,26192,0,8,0,1,0,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny),Eumesogrammus praecisus,0,0,0,0,22,11,18714,27,0,0,0,0,0,0,0,0,0,17,16648,15247,0,0,0,0
+k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Phocidae;g__Phoca;s__Phoca vitulina (harbor seal),Phoca vitulina,0,0,0,0,11598,5354,0,3464,7947,0,0,1078,0,0,0,0,13369,6974,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja erinaceus (little skate),Leucoraja erinaceus,0,0,0,0,2,597,10558,0,0,0,0,0,6290,3766,4175,17592,2445,4,4257,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Apeltes;s__Apeltes quadracus (fourspine stickleback),Apeltes quadracus,0,0,0,0,10472,0,0,115,0,0,0,0,6196,0,0,0,21087,20,0,10,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cyclopteridae;g__Cyclopterus;s__Cyclopterus lumpus (lumpfish),Cyclopterus lumpus,0,0,0,0,0,4989,5,0,0,0,0,0,0,0,0,0,13,27483,3995,23,1,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus thompsonii (deepwater sculpin),Myoxocephalus thompsonii,0,0,0,0,0,0,0,0,0,0,0,0,2934,10031,0,23486,0,0,0,0,0,0,0,0
+k__Metazoa;p__Echinodermata;c__Asteroidea;o__Forcipulatida;f__Asteriidae;g__Asterias;s__Asterias rubens (European starfish),Asterias rubens,0,0,0,0,329,48,3570,111,0,0,0,0,0,0,0,0,9506,0,6667,11495,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus scorpius (shorthorn sculpin),Myoxocephalus scorpius,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,13754,15856,0,1,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Centrarchiformes;f__Centrarchidae;g__Micropterus;s__Micropterus dolomieu (smallmouth bass),Micropterus dolomieu,0,0,0,0,29318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Leuciscidae;g__Semotilus;s__Semotilus corporalis (fallfish),Semotilus corporalis,0,0,0,0,28171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Leuciscidae;g__Semotilus;s__Semotilus atromaculatus (creek chub),Semotilus atromaculatus,0,0,0,0,22289,0,12,0,0,0,0,0,3559,0,2,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Merlucciidae;g__Merluccius;s__Merluccius bilinearis (silver hake),Merluccius bilinearis,0,0,0,0,3661,7,5326,3923,0,0,0,0,0,0,0,0,0,9965,3,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Pollachius;s__Pollachius virens (saithe),Pollachius virens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8544,12120,0,0,1,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Gasterosteus;s__Gasterosteus wheatlandi (blackspotted stickleback),Gasterosteus wheatlandi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,25,0,19490,1,1,0,0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Squaliformes;f__Squalidae;g__Squalus;s__Squalus acanthias (spiny dogfish),Squalus acanthias,0,0,0,0,2608,0,4451,0,0,0,0,0,0,0,0,0,2805,1370,0,7250,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Leuciscidae;g__Rhinichthys;s__Rhinichthys atratulus (blacknose dace),Rhinichthys atratulus,0,0,0,0,8904,5133,0,0,0,0,0,0,2419,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Lophiiformes;f__Lophiidae;g__Lophius;s__Lophius americanus (American angler),Lophius americanus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15075,4,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Pungitius;s__Pungitius pungitius (ninespine stickleback),Pungitius pungitius,0,0,0,0,10516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Alopias;s__Alopias vulpinus (thresher shark),Alopias vulpinus,0,0,0,0,319,2296,0,0,0,0,0,0,0,2,0,2968,246,1517,0,213,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Sprattus;s__Sprattus sprattus (European sprat),Sprattus sprattus,0,0,0,0,0,0,0,0,2008,0,2651,711,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Carcharodon;s__Carcharodon carcharias (great white shark),Carcharodon carcharias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,842,1378,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Phocidae;g__Halichoerus;s__Halichoerus grypus (gray seal),Halichoerus grypus,0,0,0,0,0,0,0,824,0,0,0,0,0,0,0,0,684,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Reinhardtius;s__Reinhardtius hippoglossoides (Greenland flounder),Reinhardtius hippoglossoides,80,21,49,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Sebastidae;g__Sebastes;s__Sebastes mentella (deepwater redfish),Sebastes mentella,11,2,13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Uranoscopiformes;f__Ammodytidae;g__Ammodytes;s__Ammodytes dubius (northern sand lance),Ammodytes dubius,0,4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Gasterosteus aculeatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+,Ammodytes sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Mallotus villosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Salvelinus fontinalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Liopsetta putnami,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Myzopsetta ferruginea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Myoxocephalus octodecemspinosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Fundulus diaphanus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

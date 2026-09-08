@@ -1,0 +1,5 @@
+Marker,Metric,Year,.y.,n,statistic,df,p,method,p.signif
+mifish,Faith's PD,2022,diversity_value,15,1.4166666666666643,2,0.492,Kruskal-Wallis,ns
+mifish,Faith's PD,2023,diversity_value,26,16.299572649572653,3,9.84e-4,Kruskal-Wallis,***
+mifish,Faith's PD,2024,diversity_value,25,3.1981538461538577,3,0.362,Kruskal-Wallis,ns
+mifish,Faith's PD,2025,diversity_value,25,8.80307692307693,3,0.032,Kruskal-Wallis,*

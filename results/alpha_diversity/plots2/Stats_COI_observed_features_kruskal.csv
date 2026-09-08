@@ -1,0 +1,5 @@
+Marker,Metric,Year,.y.,n,statistic,df,p,method,p.signif
+COI,Observed Features (ASVs),2022,diversity_value,26,2.0210257067943624,3,0.568,Kruskal-Wallis,ns
+COI,Observed Features (ASVs),2023,diversity_value,26,16.843732193732194,3,7.61e-4,Kruskal-Wallis,***
+COI,Observed Features (ASVs),2024,diversity_value,25,10.589376443418,3,0.0142,Kruskal-Wallis,*
+COI,Observed Features (ASVs),2025,diversity_value,25,14.104732589457482,3,0.00277,Kruskal-Wallis,**

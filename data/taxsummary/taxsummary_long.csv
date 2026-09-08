@@ -1,0 +1,49 @@
+marker,year,method,category,count
+COI,22,Alpha,Correct,344
+COI,22,Beta,Correct,622
+COI,22,Alpha,Offtarget/False positive,3221
+COI,22,Beta,Offtarget/False positive,2095
+COI,22,Alpha,Unclassified,63881
+COI,22,Beta,Unclassified,64729
+COI,23,Alpha,Correct,529
+COI,23,Beta,Correct,865
+COI,23,Alpha,Offtarget/False positive,6741
+COI,23,Beta,Offtarget/False positive,4510
+COI,23,Alpha,Unclassified,110828
+COI,23,Beta,Unclassified,112723
+COI,24,Alpha,Correct,409
+COI,24,Beta,Correct,556
+COI,24,Alpha,Offtarget/False positive,1223
+COI,24,Beta,Offtarget/False positive,1033
+COI,24,Alpha,Unclassified,17849
+COI,24,Beta,Unclassified,17892
+COI,25,Alpha,Correct,336
+COI,25,Beta,Correct,443
+COI,25,Alpha,Offtarget/False positive,778
+COI,25,Beta,Offtarget/False positive,698
+COI,25,Alpha,Unclassified,12341
+COI,25,Beta,Unclassified,12314
+mifish,22,Alpha,Correct,319
+mifish,22,Beta,Correct,3970
+mifish,22,Alpha,Offtarget/False positive,487
+mifish,22,Beta,Offtarget/False positive,538
+mifish,22,Alpha,Unclassified,4160
+mifish,22,Beta,Unclassified,458
+mifish,23,Alpha,Correct,517
+mifish,23,Beta,Correct,3492
+mifish,23,Alpha,Offtarget/False positive,1025
+mifish,23,Beta,Offtarget/False positive,1567
+mifish,23,Alpha,Unclassified,27919
+mifish,23,Beta,Unclassified,24402
+mifish,24,Alpha,Correct,116
+mifish,24,Beta,Correct,593
+mifish,24,Alpha,Offtarget/False positive,1026
+mifish,24,Beta,Offtarget/False positive,322
+mifish,24,Alpha,Unclassified,3168
+mifish,24,Beta,Unclassified,3395
+mifish,25,Alpha,Correct,494
+mifish,25,Beta,Correct,488
+mifish,25,Alpha,Offtarget/False positive,60
+mifish,25,Beta,Offtarget/False positive,75
+mifish,25,Alpha,Unclassified,158
+mifish,25,Beta,Unclassified,149

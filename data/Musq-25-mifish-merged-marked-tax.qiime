@@ -1,0 +1,713 @@
+Feature ID	Taxon	Confidence
+0bd5c9474c5bf52db06f3353540c63be	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+1fe7f3daaa12d18196289cbdcc113f6d	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus scorpius (shorthorn sculpin)	0.200000
+7f26edf28296708fcf5176f00149d529	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+0da33e6ea22ea1b750d8373e35f822ed	Unclassified(remove)	0.000000
+28c8982a49378de254c233e3a8af539f	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	0.400000
+2af9afcadd99c49e4b1cbd320191d416	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+3a7c455c43086168e5b80e7e8a8000ab	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+a237ba7b838b7732087c62a7e12eca91	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+63be0df3dc5cda2faec52c42c9b0de7f	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+eb8e12bae4084661f7e222a4626fe11f	Unclassified(remove)	0.000000
+3446ce678556443278f1184090510ccc	Unclassified(remove)	0.000000
+ceea541f70467f9df0f281bbda79b9a7	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+ed1b44ff5d2cbf55f19dd9d153438f15	Unclassified(remove)	0.000000
+fa631f419fd6bc45cfd7498e56aabcb7	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis crassispina (gunnel)(remove)	0.400000
+16e5e47e0f2a23499af6583843d3eeb6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+1e262ef07e921af935d0caa463df2a53	k__Metazoa;p__Chordata;c__Aves;o__Anseriformes;f__Anatidae;g__Branta;s__Branta canadensis (Canada goose)	0.100000
+8b648a374cc6fc3430a6c9008c6142ed	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+13148c3cea4534573972df2988e2ac60	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+9d28e2d36602de30c13c863abeb4a561	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+4e814ca95bbc88b5a49c2f4a8a057725	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja erinaceus (little skate)	0.100000
+c30873df383c090ca7b675bee3263aec	Unclassified(remove)	0.000000
+a37f4c84bc87e5f2bf0b27c5b6c2b836	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+8fa6f09fd43a6d85dd63e35a154b0c8f	Unclassified(remove)	0.000000
+61c544ed9856b4654d1eb859d76d632f	k__Metazoa;p__Chordata;c__Mammalia;o__Rodentia;f__Castoridae;g__Castor;s__Castor canadensis (American beaver)(remove)	1.000000
+8c8e3cc97519003ac04542d8898bb5dd	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Gadus;s__Gadus morhua (Atlantic cod)	0.800000
+1c02216a39412cbaaee8f81f4433ca99	Unclassified(remove)	0.000000
+229afa7c2ff305c6ae7163ce6f283d4c	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+16ecf20da8c80d088ba4c1800881da8d	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa sapidissima (American shad)	0.700000
+d29ac6be3772614c42dc8d165d2e613e	Unclassified(remove)	0.000000
+fecc38d2ff31c370977a1fcc74ac03d0	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+cab78f9121be52faf335ace9fea0578b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+e7cf8fb2db7ede3bc1c506498cec470c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7a2d88b6f02fcb532f9b37ba51e4459e	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.400000
+a28a3d6c59542c59acb4d02a1b28298c	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	1.000000
+568b58acd177ab54f1e6140f0279bd39	Unclassified(remove)	0.000000
+e302523fd8ace3e11334186778c07616	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+24f8534e487a166ec1d90ceed4d3cc44	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+be58dc74ba1125ae068973c06e382bce	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+46a3aa539259d9d4241f0f380f69403c	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+8620b840519345f65138eb060ffd3f93	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+b350b275823d8616b2ec6c5c0d822882	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+19890d896e740f1f72756d1b4462022f	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+35da0aa5cad750f1cb7cae58d64718ad	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+41ea2d353e4573117fbe6619b1933c54	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+6bd7628a078c46b111685a49bd9584aa	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+3912d85f9dd7cf6d0c414f2cfb95cf58	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+26e8de6ef97cfe2a19659fab0b6441bd	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+fdf14ddb34250d27c722283355399fa6	k__Metazoa;p__Chordata;c__Mammalia;o__Rodentia;f__Cricetidae;g__Synaptomys;s__Synaptomys cooperi (Southern bog lemming)(remove)	0.100000
+d9d4f7aa2966283461b07ff051718308	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+0be57d13be37b008a7e67daf774af04e	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+1b6775d5da509cc540e231ec108caf92	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+4c18302632ee9251e9d498e808a480a4	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+361a23893a4d8b0828e52e64202976dd	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+2873cec596541f906193521db2411c58	Unclassified(remove)	0.000000
+a33234eb8975ebeaea1243d11a0627f2	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth)	0.100000
+11f27e1d615306f986a6d0da896f782e	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+90e9b17fb170417babfeb7aaf9d0bb8f	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+3b0d119a7d8c556b46f8b153af4c996e	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus scorpius (shorthorn sculpin)	0.200000
+5f08b64a457c18951316bfc8969edc9a	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+f086124d82939feec02f3c4c5a409f2b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+b8e0337c0115e6b37580147cea91527b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+996f76dafec3caddb90a5adb27c05790	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+eddc67e4ea000dbb5571201ed1f77581	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+6d15b1a86ab319b21a8ed30978213b40	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+c75efc4b2eb9f810f33db50eccb69b8f	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+e036c6994a77ff2454e8bcc407d615da	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+9cc395376aad315bc43a82cb3cce89ca	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+f5e4f18fabe3a44a8888aee3a22ae290	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+01a2c0aeafe89aa5cc89f9c5f432772f	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+9546b903b76b878a5da51592b86a129d	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	0.400000
+4711bc959e43bfd78f0bbff86134d883	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+8e2b44d4000bfc8aa1c6075d951e932f	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+89a1e4506990543144f4b8478daba41b	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Glyptocephalus;s__Glyptocephalus cynoglossus (witch)	0.300000
+7febb3b02124f58327ba7d2997ffb3c4	Unclassified(remove)	0.000000
+5c3998cc2761c9d34881a93432078d24	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7bac9b1e526c0f28360e930ec1a93856	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+83c3aeb8ee5a2572da2379f2c2b2d436	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+488812f50664e1496ef1164ae811fe83	Unclassified(remove)	0.000000
+361bbed559ea7d2e614ae63005fbf8b8	Unclassified(remove)	0.000000
+ab6884de8f3a432b1f8628b60b474cf2	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+739f5be54fc1b90a47375c788450b2f2	Unclassified(remove)	0.000000
+a4c54caebdac4acbaa2496c63a0dfec4	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+07399b40dc1b0e9b8503de08629c7ea2	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+1d8a92cf1989a841f88fa705f433dedf	Unclassified(remove)	0.000000
+a2dede44614556a878aa24287fdb3929	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+57eff267884eb0869e1e4d077bb9163c	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Carcharodon;s__Carcharodon carcharias (great white shark)	1.000000
+dde861d9ac0a4779d517bdb9df31b5a8	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+fb42c8e1dab188ab5bd1b2a786162004	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Gadus;s__Gadus morhua (Atlantic cod)	0.800000
+7f5f16b832b80d1635af1b71bb45ba1d	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+79f6f85cf405bb412041054dda0a7a53	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+d5d0d85ddf58d312390069a20650a827	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+30fb108ad8f47b6991c1548586dc7f01	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+cd4f11b249e9b8b09f23a0601d072f2c	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	0.700000
+b6e0fba5b0c19a16c53ac2ff180c12fa	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+f7cdb1527fbd54cf3e82a365919e5435	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.100000
+03d70c9d430ab84b91dd9cb06b7541d3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+8f61d4d461f7b309f90dc0f6a9e78092	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Apeltes;s__Apeltes quadracus (fourspine stickleback)	0.100000
+8ec64415d8232d7c7e5dc3179a1cb686	k__Metazoa;p__Echinodermata;c__Asteroidea;o__Forcipulatida;f__Asteriidae;g__Asterias;s__Asterias rubens (European starfish)	0.100000
+3d54e1b6e4fb8b2465cab851fca18dfd	Unclassified(remove)	0.000000
+5ffa1ecd69395db395c417248a992c40	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+b95b8d1f6615107558a570a8d39a4c28	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+beb65087012f949c5238dd3f477c8dbb	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cyclopteridae;g__Cyclopterus;s__Cyclopterus lumpus (lumpfish)	0.400000
+db9fbfeab6b82b663916f56c86905837	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+5f5fdbce05c2a52aa3360b9694abbdbc	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+f43342c8d2a91184bf88003ade879ff0	Unclassified(remove)	0.000000
+36a2be57bce94cbc41219dfb6d500767	Unclassified(remove)	0.000000
+c05df45da53cc6ca1deca58c413532a1	Unclassified(remove)	0.000000
+2af841b1a56ae9c52c07fc30266cf7b0	k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Canidae;g__Canis;s__Canis lupus (dog)(remove)	1.000000
+d7e67c70d4b8b4f1ba808bc431a64ee0	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+70eadf6f56b1b1a1ed310364ea0f70f3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+5c0c55062ca859b5773a55f6319b30a0	k__Metazoa;p__Mollusca;c__Gastropoda;o__Neogastropoda;f__Buccinidae;g__Buccinum;s__Buccinum undatum (waved whelk)	0.200000
+9dbbf9e44bd4e8f5c6270c7f377a9f68	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Bovidae;g__Bos;s__Bos taurus (domestic cattle)(remove)	1.000000
+1680707436802a855157b60640ddf62b	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+9e3b2d0b29d7fcb7eebf9ddae031d865	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	0.300000
+70e92307ad17db1bdcac8a4bcd1ea510	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Gasterosteus;s__Gasterosteus wheatlandi (blackspotted stickleback)	0.100000
+f0f3723fa391bbeec8a7029af1ce8c7b	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+ec15e92c6b2a154b02c1e32226c6ecd8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+abc95e1994a7eeac8e2fa9894d5686c2	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+372963b95eb03c57a2acd70943f97357	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+a791bec4e7ce56769c2b65ebab906bda	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+3ba53145fe24e62e028629db32a1e7c0	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+6ece46ef927d15cfb5dd916b16f01212	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+3390a16d0c5899a1f88559e33005d0c2	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+8bb182bccdd37bd4673f3eedfbdf988b	Unclassified(remove)	0.000000
+015302e8f78914240ea20d4cf4e2653c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+547b330a8e0ccd81abe0b914aefd4973	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+265a5181737646f17fc2a675c20afc1d	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+72b622434189c14bc4c33f0755181198	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja erinaceus (little skate)	0.100000
+ff7beb7afab1aa81014f0bd0b3ac98fd	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+e6bc8c5c129ce388991a2288febbae2e	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus scorpius (shorthorn sculpin)	0.200000
+7d3560b4cd4af421caf8d7b8cd7db9d2	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa sapidissima (American shad)	0.700000
+409bbf610730d3e85018a46424f3ec5e	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+1ead135d22c50ae170fcda9e90c962da	k__Metazoa;p__Chordata;c__Mammalia;o__Eulipotyphla;f__Soricidae;g__Blarina;s__Blarina brevicauda (short-tailed shrew)(remove)	0.200000
+9df13753ffd8071f8fddefa84b3af1d5	Unclassified(remove)	0.000000
+9e879d337f83b7898103a83eba07520d	Unclassified(remove)	0.000000
+1fb9b5c1a0a7253aa7a1ae37d204c94c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+a3d8c6b64fa604f27d3dd699be97fefc	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+022655b205d4b1633e43a32256fc85f2	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth)	0.111111
+477c172879ce956c59215c1bba764ce9	Unclassified(remove)	0.000000
+04328120bc49edcaf338fae84c513e62	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	0.400000
+32f15d78dd240666ca1088c1964d4e58	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+840c1c02bd41bd171831490773b6e269	Unclassified(remove)	0.000000
+05091dd30caa67cb6d3dfc0775740d84	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+18f515087d8b4c89bf8490748e5393b4	Unclassified(remove)	0.000000
+f8bb16550789e5de42f204635fa97132	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Suidae;g__Sus;s__Sus scrofa (pig)(remove)	0.700000
+627cb7cb1cf825b6c525f6237403faee	Unclassified(remove)	0.000000
+41867385bddeb5c3188a91f6955fed9a	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+8803b0ffa6f8dabcba961d684f333d9b	Unclassified(remove)	0.000000
+adaf88141db83c32ada0166ffb181c09	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+0ec46943342d6cdec635e0237398e529	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+30c33ed480b0dcb738caa3d513dedade	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+8605140d6fed1c158e187cf18dbe6327	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cyclopteridae;g__Cyclopterus;s__Cyclopterus lumpus (lumpfish)	0.400000
+03c91cbf79e180c5ed49bfa5f6fb2898	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+26d501a70d486cf8755af7f59e2748d9	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+ae3daa721d53adbd79baa903bbb59888	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus aenaeus (grubby sculpin)	0.200000
+09d0ea4d6d7b40e78ffb5533871053ed	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+e0a90804b27e3e5c6917b7bbb9fc1ba8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+ee0b46d7ec06aa262a2b267f785834a2	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	0.300000
+ade9eb6073274772ac76c60e1d869640	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+2e282247b9f556294244bf26b1c2df6b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+3eb7fcebaa67993a270f518595d6572a	k__Metazoa;p__Echinodermata;c__Asteroidea;o__Forcipulatida;f__Asteriidae;g__Asterias;s__Asterias rubens (European starfish)	0.100000
+abc8fbbf73804619e4795f9cc9f939ad	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven)	0.100000
+6b470c0c0660d3e92c0944647b9c9d5b	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+2296d5bd7e6e6b22f4dcbcbd34900a20	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+bd2b05d1834b565772489fe6a7652169	Unclassified(remove)	0.000000
+b64d39773f6adc3d95dae74e653ae9c0	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+e50d59d976e05fc2d178e5a2a1122612	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+52ef8234ddbbe0873d6c4456ac9982de	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+fb5eeae37ca3b186987ef0ffa72f5b17	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+80100f383d328d6fdcdbc0631153851b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+c11326ba1abed0ff7e3198833ae7f6db	Unclassified(remove)	0.000000
+986e2a20712520fcd425cec25b44aaa2	Unclassified(remove)	0.000000
+cb925708fb074fed06249d7a545666d4	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+2b43f085e804d7dbc20562ce152a2494	Unclassified(remove)	0.000000
+8a514a9f22d8ea595467544ddf6cf2d5	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Phycidae;g__Urophycis;s__Urophycis tenuis (white hake)	0.142857
+2167fa3ab784431c676d251d73ebad60	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+549bc80e2ce904cb029f172144f47549	Unclassified(remove)	0.000000
+a81691d8aefbd53fd6866a7a93950383	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+6e638d7f3f1b904dbc724cb565335f5a	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+e8123a2025460845d407aafd0b167839	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+c13c482dfccffe77b4c99a3d6b902ff8	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+7500d0dcde126f84de0de6903b3b4cc5	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+3bb1413ac285443f899f33190f9dfe7a	Unclassified(remove)	0.000000
+59662672fbdfa87084191045942a9eef	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+33b03c53d3c6cf99919f907f0f86db19	Unclassified(remove)	0.000000
+85803f8d8c2a2a243df57869f18d7213	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+97d36df1975f71a8c7dc99adb1f44ab8	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+d28ded57de6a04d6d4bd1d07e7485fa6	Unclassified(remove)	0.000000
+7798cf2ae16b7de2b3576e82bc888ca4	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+218b3811d33237d54c3916eeb9c5d215	k__Metazoa;p__Chordata;c__Actinopteri;o__Scombriformes;f__Scombridae;g__Scomber;s__Scomber scombrus (Atlantic mackerel)	0.600000
+d9c46cf4977277f169354cd614351480	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+dfca3f77bdf1347a148f9fe0072d7e33	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+07125798fc6df66ca150e08e1a20c9d1	Unclassified(remove)	0.000000
+89b57744ce27fc2fe8690e645cbd28ed	k__Metazoa;p__Chordata;c__Actinopteri;o__Scombriformes;f__Scombridae;g__Scomber;s__Scomber scombrus (Atlantic mackerel)	0.600000
+edd8ed33832889ff0a515e30771d78c1	Unclassified(remove)	0.000000
+b5f5a0c281ea8cb3069a5324d1cad208	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+80649c538b24e2e04b58fca4cf52cc13	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cyclopteridae;g__Cyclopterus;s__Cyclopterus lumpus (lumpfish)	0.400000
+a074d2c3e549cc7d0016a197e7e0000d	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+50869e49ff77d2b5c35e8d9ed0a1d3e6	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+13615c0832f90b54766fb0752cfa86be	Unclassified(remove)	0.000000
+eca7b49685e9273b448c096ff56c7e0a	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+c7ad3ec74aea2b46c9a6ddce6797077c	Unclassified(remove)	0.000000
+6cdb9532e322584a5fba5eda50c93f39	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Bovidae;g__Bos;s__Bos taurus (domestic cattle)(remove)	1.000000
+9781319dd13252e526e4bf36f9e62a9b	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth)	0.100000
+02a46086eab1e8e373f89a73466948fd	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Phocoenidae;g__Phocoena;s__Phocoena phocoena (harbor porpoise)	1.000000
+2a7f8a214e0c2e63f1214200f3d830ee	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+e1161ba4bf7b7588134ac203ba47abe9	Unclassified(remove)	0.000000
+6c8f54244439abb93ef921ef97003b62	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+3f122cda23de9e381234f942173bdafa	Unclassified(remove)	0.000000
+35afd42d074cdc9cd4fdbb23caae4388	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+647158f51da036c3748f6a7dd655803b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+c2776804e2e2b87023ea053693dfa06e	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cyclopteridae;g__Cyclopterus;s__Cyclopterus lumpus (lumpfish)	0.400000
+901e69ca303b57e0aa5856a8f7eccd9a	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Gadus;s__Gadus morhua (Atlantic cod)	0.800000
+b0cd9d2e7c7e4fe6a331841eb770c980	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+c6db582679a4044b8b97b008eb78b53e	Unclassified(remove)	0.000000
+519d8e4b8c3e622224a6259b00b507d7	Unclassified(remove)	0.000000
+7269beee3035aa3e5e223a938ea14d9f	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+488b382a5f493be9f8204cedabb9d400	Unclassified(remove)	0.000000
+f26355856149716861015d39c48df631	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+fca36f5847f1f9371c57b39d0b6df234	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+be55852b3eb67f111a9d3060f5e44f6a	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+d81ae493f2644413284292c6dc997935	Unclassified(remove)	0.000000
+bdc10629ab68d4b06547c098e66debd7	Unclassified(remove)	0.000000
+3e0536345b6df5393fdae9170e39b9ff	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+1cc93e54f0aa8a9103694536839a92d4	Unclassified(remove)	0.000000
+7cb1cb887396bd60742ada8d223558da	Unclassified(remove)	0.000000
+1e44fe4b60887f7486abce3d349b0e17	Unclassified(remove)	0.000000
+9b0600814a43652de067e608cca9735b	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+4c952fbb6a8afc6c8729f7534d6bb44b	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+5920dffe2928ea1b196526418c552dc3	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+00de072b3eefa9e97fb1f45cc7ccdaab	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+1e2356f20a29a0ca472c5a01f89b499d	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+b462857d9ed51b029e4dba35a1c69683	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+55fa7944819a4b5f89a4f4b596b8e109	Unclassified(remove)	0.000000
+3103bad6260557e7461fa8de49ce13a3	Unclassified(remove)	0.000000
+8cb42a0b48562f80e06557801a0f2b0c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7dff4326f52f0ec83897890fb1af1835	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Alopias;s__Alopias vulpinus (thresher shark)	0.500000
+8a23d198780048247acd395edbd9e7a9	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+dd5c676762d1875dfe5585b370266ebc	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth)	0.100000
+56d065e81f407ec7049c73a89ff8524c	Unclassified(remove)	0.000000
+2e6ca3cb734a253c7612b2afcabc8bdc	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+2057779c3ec4c5ddd89ea60eb48514b8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+977513890866ed182a0efb3e714b8f85	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+38c6e7e5246c5331f9dab22fb27e85aa	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+ce66c0a98de45ebce514ff188307b7b6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+efac91bd68d09fe15b87888bb1b52dcc	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+e4bb315cb7a62900f2ece239586e8e93	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+8763cb3ad962671e4e4a4122fa501b99	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+9152d46741349fa495ed2c8dbbf48ecc	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+06c0a445e9023d320bc6e39dd0817aed	Unclassified(remove)	0.000000
+23c2ad2901cc6908784584f86a4b1786	k__Metazoa;p__Chordata;c__Aves;o__Charadriiformes;f__Scolopacidae;g__Calidris;s__Calidris pugnax (ruff)(remove)	0.100000
+b83bea92286a40a73d55b75b61c56a77	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+56e80b7c6fa4dcd6590956c712964160	k__Metazoa;p__Chordata;c__Mammalia;o__Rodentia;f__Cricetidae;g__Ondatra;s__Ondatra zibethicus (muskrat)(remove)	0.400000
+18a0ace4dafd137fc70696a40d898eef	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+2a51a0a8af1373c693106ba6cd512250	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+03d34e6cad17c0761cd9cd6087a5b930	Unclassified(remove)	0.000000
+e078dc235401e376680695ea9f9e2968	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+341aa128fc5385c7cf6cdc31d978e189	Unclassified(remove)	0.000000
+2fab64397d82c42f553ebbf8519af39a	Unclassified(remove)	0.000000
+a75657f25cd1b8b2e6ae207550ecf8aa	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+d057bf538b5b775df05b4b1d5970028c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+c592f23adb71b183256f547a923451fe	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis crassispina (gunnel)(remove)	0.400000
+2f47774aa6ab66e05cc15125676e264a	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+7e224e865974bab3025949233edf72cb	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	0.300000
+8a372194f8bba72ad24e2eea897d47cf	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+ab7c68f700e340ce047c9a466513139f	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Scophthalmidae;g__Scophthalmus;s__Scophthalmus aquosus (windowpane)	1.000000
+7b3ae0ccaf9bfcd8f632d5b63f96444b	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+9e479487171f6aa0cacc978ed687dcea	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+1660fef03c3839a0009a348d3565403f	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	0.900000
+08521c783dc80dc502d12a8ebc6500da	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+4332487ddcc724266e662d1cafed1bc8	Unclassified(remove)	0.000000
+269cdd88465c748eddc7a065f5204fd6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+2c3a7ccb5d1da2c89e71a28fa82308a8	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	0.300000
+0bf683e754c28ff5cee38346fd1bfe35	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+4a4d8246eb7519969c8d095a86eeb119	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+60734fedcf07494c45356f9890807d19	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+b8ec3bfab90359bcada74334dc1b2bf2	Unclassified(remove)	0.000000
+244070359393b065f9345c7fe1bb8bfd	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus aenaeus (grubby sculpin)	0.200000
+987322c1152a366ae99a36011211e8dd	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+508ab8f50ca0a8b796413c6436b449d9	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+4b184cf7baa171632f36ac3018f50ca9	Unclassified(remove)	0.000000
+083c4f9f0b97d7cf5738a67dc36a7aa7	Unclassified(remove)	0.000000
+1ec7f36cb67136311d5cc76f87383897	Unclassified(remove)	0.000000
+007652282658a38b249c7f5ab40ad6b2	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	0.700000
+7ed01d22e6afe54be7d8f445a9f9c5cb	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+5ab5715079476ac19b900cfd9c1fca0c	Unclassified(remove)	0.000000
+8c5437061314f89bc72b505fd2652843	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+d3b61b0a2c528e7d080ea762fa7b676d	Unclassified(remove)	0.000000
+8deab87a6863ee50650f35b5f0cbe011	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+cec105288ca4f10e9d0466b4419e7854	Unclassified(remove)	0.000000
+8f4cb61b99b66c2b5a0fbda3a24e9324	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth)	0.100000
+83592aaeaffd38af8780fca1df8aad66	Unclassified(remove)	0.000000
+a60b65a9ba37f71b8f5d3c852f5c1374	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+36f27e3b2ac0c94963a18355acc1f4d4	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+f9576fd0abe97c391b2778fef7c6f14e	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Merlucciidae;g__Merluccius;s__Merluccius bilinearis (silver hake)	0.200000
+3533305121cfa828adb66adcafc700fe	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+66eb5bb300a30b411aeb517d9fd98111	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+58bdb921a73c380f662ccf6d6275630c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+2c6eda19c38e8da3020e7c1f56d884e7	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+dd109e8e15da4486bd6432da955520c5	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+3e97ab80fc02c8dcea7716d3629fb864	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+62d2d6c0a3a5ab55d931f26b01ee6895	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+a6b792864041d30f78a388c23dbcf212	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+9d558d7ab18baeff8cfec744279b0c4b	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Squaliformes;f__Squalidae;g__Squalus;s__Squalus acanthias (spiny dogfish)	0.222222
+e22b561f8aea3de3ea68c428c816ed60	k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass)	0.500000
+144811f528aa518440455342d79f8b44	Unclassified(remove)	0.000000
+df3eff96460e5ddf4578967bce671336	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Apeltes;s__Apeltes quadracus (fourspine stickleback)	0.100000
+f792c884bbadc9253949284e29d790aa	k__Metazoa;p__Chordata;c__Actinopteri;o__Scombriformes;f__Scombridae;g__Scomber;s__Scomber scombrus (Atlantic mackerel)	0.600000
+eccebb52184fe93b565c631944d94780	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+633ed9862fb307572ac828131040d82a	Unclassified(remove)	0.000000
+c2fdbb6bc6e5670ccd12f9c4b9d031b1	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Alopias;s__Alopias vulpinus (thresher shark)	0.500000
+81c20a76d85663a2d26f7b83c209066a	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Gadus;s__Gadus morhua (Atlantic cod)	1.000000
+10f1f70e22930b599eb8254a7fcce387	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7846ff43f2fd1bc8789ce1581564406d	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja erinaceus (little skate)	0.100000
+159e7e47870d46c3f50020be2a8d460c	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+75833d826c41b3031bc7caecd22f88a8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+8f05a9fa57c0d716bee8909927d66b64	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Bovidae;g__Bos;s__Bos taurus (domestic cattle)(remove)	1.000000
+51412539ac298f51bc047fe9599285e8	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+45c2ffa3f2a06e3092ba08b6c604e2c0	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+c3a94a1df9d54c9b6ffb46c4ca5a110e	Unclassified(remove)	0.000000
+892c3553db8e47c301ed0499ef210c91	Unclassified(remove)	0.000000
+3638e7f750555c199d10e3bdba661458	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cyclopteridae;g__Cyclopterus;s__Cyclopterus lumpus (lumpfish)	0.400000
+a358d6d1d52e648139acfad9d8701e02	k__Metazoa;p__Chordata;c__Aves;o__Pelecaniformes;f__Ardeidae;g__Ardea;s__Ardea cinerea (grey heron)(remove)	0.300000
+2a3d25f9b1605593bf74d24a9a7d5834	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+75cf065a0a49c1a0e51e610331a9d56a	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa sapidissima (American shad)	0.700000
+3d94592e4a05a57a3c58e025601f9d09	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+2da6abf87957c3926c52ee4783198d39	Unclassified(remove)	0.000000
+1dec59fef0682496139ad6094c458471	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+21913a3517130e130fd423e34af67f1e	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Merlucciidae;g__Merluccius;s__Merluccius bilinearis (silver hake)	0.200000
+e47a361aeea0489b7f3e9718b90f189e	Unclassified(remove)	0.000000
+ada3a5853c7b343e6bbf1019e2677bba	Unclassified(remove)	0.000000
+ae969006ed6f1e193f0e3e1c4a5c1c3b	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+84cfe250c86c06c1eba5fa28342431c7	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+81a0e7fbbb15135207b0a034817c3fd2	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Rajiformes;f__Rajidae;g__Leucoraja;s__Leucoraja ocellata (winter skate)	0.200000
+454a85b145daf574fbb6c796457c6f0a	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+b0c293253b67d6581d6cef9f7edba5be	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+7d40286d8e58e9b80fc39e54a92f7ddc	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+795fdd3638de7664602a3fc79378ad6e	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+0015791ecde6c7b7fc1dc022f53c52d0	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+2224b14ad4c2a08a27f860c0f8b24635	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+33d3b300b1fc867777da0dac37e3decf	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+b7661270d52f6027f790a32cd6395676	Unclassified(remove)	0.000000
+a43aa7d2a031a9f85de1b6972a4518e8	k__Metazoa;p__Chordata;c__Aves;o__Charadriiformes;f__Laridae;g__Larus;s__Larus argentatus (herring gull)	0.200000
+fa6f24f61cfa0e6d4ac63773fac88a88	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+c518da85f43a4332c1066fa2a91a30ba	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+0c5a221bf5a4789543abf5aae5441a04	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+185c8822ae3cca5c7e74826adaa66437	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Pungitius;s__Pungitius pungitius (ninespine stickleback)	0.700000
+dcb7afc3a8baaf095336a5f941158e34	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+8c096aed0adcd5f8dd60ef2cf4f254ba	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+832f3fae631843dbb32d30f8555275a7	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+5e3f2144ce2f851ee1ad3b40f79b32ce	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+90dc74161fd76dd50d56b014471bb8ff	Unclassified(remove)	0.000000
+8e86a1bf678d63e3f9b9c1aaa7d5ca2b	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+db5c7261ba961d3df8403bebde29d0d7	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Suidae;g__Sus;s__Sus scrofa (pig)(remove)	0.700000
+16cc6200a5b0ff9b5095fee7a011db7b	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Phocoenidae;g__Phocoena;s__Phocoena phocoena (harbor porpoise)	1.000000
+781f55a5a72a5be9ea870f1dcc618b56	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+e1b248808b45e604a672a834678ded0c	Unclassified(remove)	0.000000
+2a6b18c65211e30dcf899bad27e87310	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.400000
+a8601d94151de8da3d96b1909992e3db	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+7894160481ce141db7bd115162a66bca	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+80ec75300233ac7f25c53da9af0339f2	Unclassified(remove)	0.000000
+d975d66de159bc5a6b3b30d05d244952	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+b1dd5e90dbe22406d47c8d0bb940228e	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+19189371b8ec892abdcaab8b9668be78	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+e8d38c875c8ac6a43917bee770da5abb	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+9b89ea14a6a28cb8200542bb53ebb242	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+5e05e940faae593a7f1a4f2435954dbd	Unclassified(remove)	0.000000
+deeb376dd5f942eea3c935f73d8d6aee	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+6d1ae9e4fe32263abf28a558a419cba4	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+dc38e162972a997588b5f870f7fbfe44	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+884a68781001be32628141a954276e95	k__Metazoa;p__Chordata;c__Actinopteri;o__Anguilliformes;f__Anguillidae;g__Anguilla;s__Anguilla rostrata (American eel)	1.000000
+a60b468ea5db1965f60bf78dd7e71317	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+082128aef3a1bb41c01009a16a40262f	Unclassified(remove)	0.000000
+665ab9933d22216275adaba9ad6de6fc	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Bovidae;g__Bos;s__Bos taurus (domestic cattle)(remove)	1.000000
+ae0caea2e39f03c2e698d412dfc9586d	Unclassified(remove)	0.000000
+69e6e1c4fe035a6e349ee5de242bb57d	Unclassified(remove)	0.000000
+85c353078ce2d46c29b442c9cd7e0b25	Unclassified(remove)	0.000000
+fcf98a4795a5d3e0ea723172ad5775c5	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7013e2e8391ed2bd561621382a0ace7a	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+e41bc2fd8b863bc5eab5139a7e91bfde	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+3519110ba3aa7c3c31e9f1036726bb6b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+01629f7b7f9e4a0983f09210783578bf	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+add9fa5e408b742b154870a707171488	Unclassified(remove)	0.000000
+75a11fc98a3698f15a85540121cc4ed7	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Gasterosteidae;g__Apeltes;s__Apeltes quadracus (fourspine stickleback)	0.100000
+0af6e8ecedf55b5512a321a56cf5af75	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+48e73a4048ef165d8e8c4b475f3fb7b0	Unclassified(remove)	0.000000
+4485ab8a195a8e49139b687527b13921	k__Metazoa;p__Mollusca;c__Gastropoda;o__Neogastropoda;f__Nassariidae;g__Tritia;s__Tritia mutabilis (mutable nassa)(remove)	0.100000
+12716f5bf9b408a793b2a12e1693453a	Unclassified(remove)	0.000000
+d8069f9541d7a5ca955cc323ce51f765	Unclassified(remove)	0.000000
+98f27a32484e71b9330c5e4ab10d526d	Unclassified(remove)	0.000000
+2df3540a618fadcf927d07c82f8008e6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+61a737d3e5c2c96364854031f817688a	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+630c84d7ff9f27bbf8ac912534bed3a1	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+4d669fbe79414032edcaf436c1c61185	Unclassified(remove)	0.000000
+705d0db2a14df071a8350cb639ce7a0d	Unclassified(remove)	0.000000
+aa60cced1ecbb3da48548499dd00ea7c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+dd4e241c8c518c731e7cc17b138a274f	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+13ae96d95d95101276b74c41640d36f4	Unclassified(remove)	0.000000
+96ffca08f54ead199b8834d60ee32d7e	Unclassified(remove)	0.000000
+0c6b31d97eff551cbb0adcf3acb1e0e2	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+6a73eece07338f66d26cd08b4962a0e3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+37f7244dbdd597bbbe3485edd5f052a2	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+a39bf75a844a3dba3aa396a26f5afb1c	k__Metazoa;p__Echinodermata;c__Asteroidea;o__Forcipulatida;f__Asteriidae;g__Asterias;s__Asterias rubens (European starfish)	0.100000
+dc596f74eb858e6bf14886af5350c4f4	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+21240e8327e9462d73d557f81396a87a	k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Canidae;g__Canis;s__Canis lupus (dog)(remove)	0.600000
+41662f004a8a9d8d610fcd0274e9fb75	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+e799afb15a5c52091f4b9289a7514457	Unclassified(remove)	0.000000
+a9261b0fe8da677ae7aaf7f48446b87e	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+dc2c040fa8a06513c754d82b8f149158	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+48eea8fc5ad2d167cd4220ec229566fb	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+a355609b0a334ff022ca4536b00f01d8	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+f65588b676961b72c5e5758a043a7660	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+efe92fc11ee7fd584fdbf1220e5b97d5	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	0.400000
+acee65784c85d2e289171023522ee71c	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+85477ba699ec0a7fc9b3105aacd1f7c4	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+34efd6ca0ec08d20eeb56e4165ef681f	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+e9f21a644fe568f2c8093def9671e9e0	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+c131657630397cd06853e50674bad626	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+c44ea551764cee7418fce8c35aa6dd3e	Unclassified(remove)	0.000000
+5dc39ec2d5c8a68b63308028018e413b	k__Metazoa;p__Chordata;c__Aves;o__Gaviiformes;f__Gaviidae;g__Gavia;s__Gavia stellata (red-throated loon)	1.000000
+eae22efa7a30c60df00ea67fc365c9d7	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+ad527c1c95ed694d2e4aa4a9f09a6790	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+39cd843a0fa9669e0acf070e715eb67d	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Squaliformes;f__Squalidae;g__Squalus;s__Squalus acanthias (spiny dogfish)	0.222222
+cc8cdd8060cc81425655e1702a713492	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+4b5fe3f69d9b72d1f5c7262efd8b8814	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+d1758852a9031104636fc282727bf92d	Unclassified(remove)	0.000000
+a7f35f8c6c0b25fc4ff4871f76e9d528	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+ac69b2087e2a6a8352f2dae6bcad4c58	k__Metazoa;p__Arthropoda;c__Malacostraca;o__Isopoda;f__Idoteidae;g__Idotea;s__Idotea baltica (pill bugs, wood lice and sea slaters)	1.000000
+c401970137ff3cb4bbbade26d9bc39d7	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+7ef1f5e67d86029bd11308ce4302cd2e	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+db820dc82d0b3d022558053d78038dc4	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+6f978787b2a3477b3b77094ce2c4c26c	Unclassified(remove)	0.000000
+7d0e9aa9286ae57f4985f5a56c144726	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+ca1a3be6f73493f762cb5aaf5509dbff	Unclassified(remove)	0.000000
+4afa0d43bfc08057ea2917fa0d318911	Unclassified(remove)	0.000000
+3475b3081773d8bda16805623e8b9a74	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+dd8285bed1d634e286e03dc3b414730d	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+8a8c984747eef30a2ca6cc6493bd8cae	Unclassified(remove)	0.000000
+57ccf8ad596b1601d116837904862317	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+f8296a17ddc2a9976361244b821f63c1	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+d9d32660f502f6cf818621b27705f15c	Unclassified(remove)	0.000000
+2be78e5f1e7ad8da3c5c54dd328fae55	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+abe3d894721fb237494797d8d15f489a	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+e1678b837f851515be7e1d5dd00d4b27	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+57758171b9b9117d8b102f5dba400bbe	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+b197b0dbe72010a976d1598825936f5c	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cryptacanthodidae;g__Cryptacanthodes;s__Cryptacanthodes maculatus (wrymouth)	0.100000
+cb1c8f2e26f031b5a834f1178e7ac47b	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	0.300000
+64a5ec9b42c524c151bf24842e085e4a	Unclassified(remove)	0.000000
+c09868ff88438aca46404983c47a92c9	Unclassified(remove)	0.000000
+918ed1f0e9ccef8939285e169e97a2f4	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Bovidae;g__Bos;s__Bos taurus (domestic cattle)(remove)	1.000000
+759318cd5ac9cdb23acc5e0618341c6f	Unclassified(remove)	0.000000
+e12a1a1497f715171413a6371fb472ee	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7f8ad6403849c5635df05357bd26bfde	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	0.400000
+5adb21bf0f2e70e6fc051f9f06700153	k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Canidae;g__Canis;s__Canis lupus (dog)(remove)	1.000000
+f624a369cc2b03c41783369c92900614	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven)	0.100000
+a2e12dc2b79ca5daa233bb115e3f32a0	Unclassified(remove)	0.000000
+24f6cc0a239de4bd5d82cb966cf6784a	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+b0baddb380a99aa4755c3d5d70d32de8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+d5d9f29d5b0e5aa7e079efd6bedc06de	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+783b50b841d61d992319081fe45fdf51	Unclassified(remove)	0.000000
+6be3a2e5013e140e947646d430422436	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+dd21b6c956edb7ae289b98f4262565a3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+928124e83c9ed14850260a0144234cf9	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+08b06fad9285caa529e19e187153e474	k__Metazoa;p__Chordata;c__Actinopteri;o__Anguilliformes;f__Anguillidae;g__Anguilla;s__Anguilla rostrata (American eel)	1.000000
+378f1cc41442026caf4b8b7780264207	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+c1e647f1554b3229902bf87d83fe97b0	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+3e1278f2ecfcf4a0e7481896edd84f2c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+99ff1a3f7280120479bf8f18ca7a7e46	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+a12e1a28c0b3d5237f8942728c16abbe	Unclassified(remove)	0.000000
+def145bebbb52e065d55730f9e90b935	k__Metazoa;p__Chordata;c__Actinopteri;o__Acipenseriformes;f__Acipenseridae;g__Acipenser;s__Acipenser oxyrinchus (Atlantic sturgeon)	0.500000
+8f48066453dc245ee8834438fccf2df1	Unclassified(remove)	0.000000
+8d1ac2a92e5e7c0ab65e4de607e55d7a	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+7ea91de9e50480f24b52e18652f455aa	Unclassified(remove)	0.000000
+1a9c80f5b0a937b3e6aa14e6cd759930	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+eb8ab1505d3c4d476ea021dea53f4f43	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+02efec9f93b0b83d514f19dfe55f6951	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+094492ac2e50d24d9e880a0725553b0b	Unclassified(remove)	0.000000
+e6236b8e0e1c426d9a2add1f9032b104	Unclassified(remove)	0.000000
+72c05bbb8fbc5c5730304d2da8badfd5	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Scophthalmidae;g__Scophthalmus;s__Scophthalmus aquosus (windowpane)	0.833333
+9076dc9a69c1e6638b7337a9a6b84814	Unclassified(remove)	0.000000
+db4b79f837b57614b0b8b3f6ef8fe2f3	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+72f0f189119b63ff478bd17fba885b09	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+f2622618c040a9e8f8ff3cc5cf4c3e02	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+10d58d92e30f465074fb94d00d1c8415	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+89b66b2237eb52c8e478d88d4dca5d99	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+3b9ee853e7b656edcf0a44f0342b4478	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+ecd9c923b910264687318fda0b3387cb	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+93dd614205ebba19477b1d60a4de372f	Unclassified(remove)	0.000000
+207106a593a56cf3f70c92684efb256c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7ae3d7929813226f143d799d4e2f1f54	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+a3038a7d8bd5518b263f0bae882bfbbe	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+328d571c9c5d0c6ca286cb03124ec3ed	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+3e33b53d645a92bcb58fe22cdadbef46	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Phycidae;g__Urophycis;s__Urophycis tenuis (white hake)	0.142857
+46ba2752cc93aa93fd1f541815c1761a	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+76245bb45292bbdf55f31d94a10fbf00	k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Phocidae;g__Halichoerus;s__Halichoerus grypus (gray seal)	0.400000
+f9e54d3f6ce32915d454f9462d06d2ef	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+321c69b1298b3acb6ca3bf47516ac8a0	Unclassified(remove)	0.000000
+2a46fa5ed27220e59a2969402966e754	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cyclopteridae;g__Cyclopterus;s__Cyclopterus lumpus (lumpfish)	0.400000
+906e9385a061e9746aad506cee23e084	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+712e3739c2ebbb7f4770c1412f48112b	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+d4d776819fc0c227e0dbe3f160392231	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+fc6dcba3b5eb39400be0010e4764cc95	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+28cd1c2d72967ac2aaa38c4c9f272816	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+deb24a43fb3cbeaee6613e951bf054b4	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+097c0c0929e76c0c7b211c26482e80bf	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+a61e4febfce75b73894cba67f9c62dc3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+652a3ee964bfcdbc6cad439dda772656	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus aenaeus (grubby sculpin)	0.200000
+a441d70a2448e325d96362987287e9f1	Unclassified(remove)	0.000000
+97615f99e22cd6c62f1b8443d4ed6f6b	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.500000
+22b7557d0034f922b0509246fe38a4e3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+07e3ca997276707a5e5c49dd2646117e	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	0.700000
+e417d3f9ed499e19e7827b8b918ec3c0	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+faf20186b06ec8bc5c289dd74b293318	Unclassified(remove)	0.000000
+88e41da9d9644b481f5b479b441101b6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+5004869b0646e0dc2fdb07cd78255a52	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+cd0d4acf170346870398dd9760d83f95	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven)	0.100000
+db0fd6732a7cbcfc77515cf605d587a3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+bcb1d549b1996cd7f5d6e32e56a095ac	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+5f3d80aea8a54f3be9c7402da0cdda4d	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+1ac7393de06f249b732a8b8fdaa7120b	k__Metazoa;p__Chordata;c__Mammalia;o__Rodentia;f__Castoridae;g__Castor;s__Castor canadensis (American beaver)(remove)	0.500000
+79cbcc2c477cfd34b9057dd470ed19d2	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+c481506b8d2d674a9c2c97cc9e0aa5f3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+b65cee50449ada7c2e15d5300badd5c3	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+c57a4628a99e19c662a3e92fe581f584	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven)	0.100000
+bbed881a76317a0c4b5f250223f8b0a6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+abf791865fa3b9ced76b8edad5ec7351	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+23f13e628af2c39dda26e38441a7461c	k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass)	0.500000
+10c938a793e5b7fc3a84572203e00d68	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+d0fd68fe037d53853018388ff9bdc5d3	Unclassified(remove)	0.000000
+b5a610afc5a6296954fbb8a7e5e43d63	Unclassified(remove)	0.000000
+ed82d2650ea7fde5a2aef0e3a1b0872b	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+3d8e166a02943530d620bb7c49919305	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+fd21d965dc8435f284deb210be7bf4d6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+8e0db2a7df4890015ee4ecc9b369d4c9	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+c613b54e53cbba6e305e82217b7de5f1	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+0078b6cfd1f46e1d783a8e5ecbd91470	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+5c09b8ef56ffae303217164cd2060429	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+4204b71891ab20e03321e29353bfe224	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+7426588d1eccff2a1c6bd96fb45834e3	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+d58153693ddeb8c370090b154d1d9512	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+d5a55e663d04221c18d5a98bf837b0b0	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus aenaeus (grubby sculpin)	0.200000
+3bae46f06318be8ee4e3db0f563199f0	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+1277a59ce5f8c96b7add30724a1e5fb9	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+7c85615c363665b61fdb1ed014337488	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+fd2b83520c7870aed49d3a13bcdb0820	Unclassified(remove)	0.000000
+8740b302285950c17fc3984167e41a23	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+55e53f049566d654a286e26348a3b202	k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass)	0.500000
+9bdb735c6be15dcd1e8278e42035118d	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+9ce05949fe525878310298da27376a26	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+0d1f4938ce4592c99f13bf72e8b7709d	Unclassified(remove)	0.000000
+5f42db9cfa3968695530ce6bb884e32d	Unclassified(remove)	0.000000
+5087e9d63968fbeb66a9619e115d7485	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+bc87bc33f003cc8c8614801ab0749d05	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+5babdc06473649daa27695f42b12e72f	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+a4b93c2f9e5efcbb0ee7e1197cacdee8	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+86378a2e1fc3ee55af2e45e091fcad1e	Unclassified(remove)	0.000000
+4d81714e969bf8fd8f40939b2cd702c7	k__Metazoa;p__Mollusca;c__Gastropoda;o__Neogastropoda;f__Nassariidae;g__Tritia;s__Tritia mutabilis (mutable nassa)(remove)	0.100000
+2e7b7adabe8550249c6d2116b3bbe276	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+760c2ecee30d63925698cbeca94f917c	Unclassified(remove)	0.000000
+cf974acdc4eb2ed3f08a9c65279fe38d	Unclassified(remove)	0.000000
+d28d2e0ccc2cf364b9e8dadadb6f7d1c	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+db4270dd4deee88e9d4f5ae2e47f0641	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+9ac91d2c752a698a37d58d0c242b1cb8	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+4e15c130140975e37676e321db370869	Unclassified(remove)	0.000000
+737832e3be7fd6878ffd289d158fccd0	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+5d0addaf70d51de71a687f1c683bf849	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+8046ff8459393a023b4e075e2aee3625	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+9bca08ea08a2c057cc4ac7e876776c50	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+e83794a2f2e25f023513ca893ac88e4f	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+8c4ca8a3df42cd033955a2b310803c42	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+94cd2860c221caf99d467a85890fef14	k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass)	0.500000
+2a5a820d7058e6b65ab609cca10ca9c9	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+5b1b8274da6d6806d412aa806ca73fd1	k__Metazoa;p__Chordata;c__Actinopteri;o__Acipenseriformes;f__Acipenseridae;g__Acipenser;s__Acipenser oxyrinchus (Atlantic sturgeon)	0.600000
+aa24d59c57f70ee1a8d46b4194ceed1d	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+6077b259f2ffa41aa45743d8edeb17e6	Unclassified(remove)	0.000000
+c830dcbf2165608d0973a7717fb32683	Unclassified(remove)	0.000000
+f693ec79d54e8933b7b4e573dd0c5eca	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+8392f3b07ad15b8d272d16011eef8df5	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+57f0ff1ef60efda419c0a548461ff5e5	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+062d88723c307bde51ae9944faf8dc82	Unclassified(remove)	0.000000
+afd10c5ce3481f2b9eb27b4396356083	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+56511696a1e63a550621a4acb9cb3a61	Unclassified(remove)	0.000000
+8a830c63b16bd591c0175634ab0beddb	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+d30367198e73eed4fdc564ba92ade08a	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+95505b2e790d876acda89355ae381b46	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+1a4e6002d1289e53d2d2f01c954a45ab	Unclassified(remove)	0.000000
+0a3b46e9ac9ee7fb3dfd4128e2c74edd	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+4801bbb1b360435b59b65fb5d5ea80ef	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+6643f12a50af9ae1e5133c5f98261f20	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+c9cd41f7eb3981539d32a7582e62472e	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+6c4dd63c89620043ee42e66fca55b7d9	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Squaliformes;f__Squalidae;g__Squalus;s__Squalus acanthias (spiny dogfish)	0.222222
+e607aeceaa0074aa0fb6f23a371d8a6a	Unclassified(remove)	0.000000
+09c77dc577f2a4a487e88677ba62a765	Unclassified(remove)	0.000000
+eee99e225edbbcb66a1a8a2c47743788	Unclassified(remove)	0.000000
+ed581fefa575c875099aaa4cbeab565e	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+f3fe877094ae4cdd19aa52a6d49a5877	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+5c19667d995997c9e88144b2f4934530	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+e5fdcc47c84c8af837b62f8b632809c8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+ab680fabd560f1aad1d7958aed8c82f3	Unclassified(remove)	0.000000
+456dcd816155f08b31a50c04feb63d5a	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+297ab42672183dede0f5f88a20c3c13b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+d987851d7c5bdbb6e4e95940d9d7a1ce	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+ea12cf57e4441d03e2f469828db5c520	k__Metazoa;p__Chordata;c__Actinopteri;o__Acipenseriformes;f__Acipenseridae;g__Acipenser;s__Acipenser oxyrinchus (Atlantic sturgeon)	0.600000
+2058556cf7bc323c707c414c9ecd52f6	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+1df0ef90a40df80d6e4dff19144c80ab	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+968cf180542dbda35dfb195d30939b21	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+e553b69d55993de6ec137ded201ab0fe	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+26b6b4f81e1d8648bc5db7dd79e3b984	k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Phocidae;g__Phoca;s__Phoca vitulina (harbor seal)	0.300000
+06335cc3a4490cdfeff747a83285424b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+61b3c9a875c9a9a3f3ab29039b11c416	Unclassified(remove)	0.000000
+0718b876f52243679f51a68c8af0093c	Unclassified(remove)	0.000000
+23083de78eff8a7b52e894f4b878e593	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+9f95f8d6510571882d80410836029503	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+d1990344966ef857dfddb066508e8c3d	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+73228c3d3908898f4008c8ad3b6460fc	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+ed3943a7223f78718d9376334646d05e	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+66096afaa8184de9243d772ffbed3b14	k__Metazoa;p__Echinodermata;c__Asteroidea;o__Forcipulatida;f__Asteriidae;g__Asterias;s__Asterias rubens (European starfish)	0.100000
+9682b4ffc46651a9bf483eab4062a49c	Unclassified(remove)	0.000000
+9c93c522afbc6506ba3b190d81f7e7c3	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+ec959e991ecc6549c7d45d7c2493e051	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+aa66f87fd17506864f40ee373391794f	k__Metazoa;p__Chordata;c__Mammalia;o__Carnivora;f__Canidae;g__Canis;s__Canis lupus (dog)(remove)	0.500000
+e0649f470936a5326ba56235ff627b83	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+9696327fe069a3a89c177ca9c0a1aeb5	Unclassified(remove)	0.000000
+8bda8d4e0453f9c1a1255e014039d4a7	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+4c0ebcde104468464d8d9def54ae3c8d	Unclassified(remove)	0.000000
+2cb23c3382ea4d132f2e2fbdddd2f62a	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+180b0d1d83f6eca2ef023c402d81c277	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+9b47eb65e4b7faa5f35ac773fcb6a12c	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Pollachius;s__Pollachius virens (saithe)	0.300000
+e65839c7a5b67f6c318ab9628055489a	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+a780308247dd759985491db9feafce0a	Unclassified(remove)	0.000000
+a99bd440f79007c9eff881e6b549a57e	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+cdcf5ccd65df098f1368560d1ed646ab	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+502b018b009af7fdda2af3aef837a002	k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner)	0.300000
+8980fce81010495115a6b567d80042de	Unclassified(remove)	0.000000
+2e5cc800728d20f16d6e9c07ae03a034	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+e55e98a02ffb5e354f50af84d8eb7297	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+350f5f44cdbcba251d3d0743ee48d8a8	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+bbad0908ed298e750df16137d5ece709	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+9765fb4ce5865a21121200dd2cc20259	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+033f2c34a81288b7b2c126c9206775f5	Unclassified(remove)	0.000000
+b75910884aa5534d1fc630a65d3f4add	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+556b8207a9940326eb0650dc76de004e	Unclassified(remove)	0.000000
+a8f957e968a346f547aafe53ce00e74b	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+3a43f2710113f39162c80666b5fde12b	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+85bb2667fde88c20c44a064b560564fe	Unclassified(remove)	0.000000
+76595070a4d15e99b063ded58942c6b0	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	0.300000
+9b728ee115c184aac392f4ea7313188a	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+5717d97deb4dba090cb9bf9e734d0cfa	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Stichaeidae;g__Eumesogrammus;s__Eumesogrammus praecisus (fourline snakeblenny)	0.300000
+f99059500a4b1890d6fc1a833daa03d9	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+d3f5f4f88afed835be0a10a019c65113	k__Metazoa;p__Chordata;c__Chondrichthyes;o__Lamniformes;f__Alopiidae;g__Lamna;s__Lamna nasus (mackerel sharks)	0.400000
+8983bc4b5e5fb31923ae65e33a9be157	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+960296bf4f7d015644440945cd216a60	k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt)	0.600000
+6095847c471992ee8a76b9536f7360d5	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+ea12ef1989a22816e2201575ba69e6cc	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+cebd59e0725130867638ac74acae890d	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+70583c27c30ba7838631b1cfa34ee544	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+793a08c957b05237f0d0da8fa2eeb6be	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+2adac4df3c4e489acd7c81a914d6c261	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Pollachius;s__Pollachius virens (saithe)	0.300000
+e605bbe4f44f122fa1521fb43ccf9fe7	k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Cervidae;g__Odocoileus;s__Odocoileus virginianus (white-tailed deer)(remove)	1.000000
+1ac871207c00fc7dcec58b142f1cc417	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+85b5b38f1e4c15f41b17fed54f4095c0	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+b1534af62590c9958d6255cac0c0652a	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven)	0.100000
+2931acbe21b6421e7b9257bbd94684a2	Unclassified(remove)	0.000000
+f21befca0f8abd62686bed4c284f901c	k__Metazoa;p__Chordata;c__Aves;o__Anseriformes;f__Anatidae;g__Branta;s__Branta canadensis (Canada goose)	0.100000
+0d0d34166f17cce427ef829bb2f3f81e	Unclassified(remove)	0.000000
+710dea2f0cee72d52afdd0f1e71f7197	Unclassified(remove)	0.000000
+2f99e1ea78128626b326e474f38fe9ff	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Gadus;s__Gadus morhua (Atlantic cod)	0.800000
+6596d61fd342c138edc60f42721c9c00	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Cottidae;g__Myoxocephalus;s__Myoxocephalus scorpius (shorthorn sculpin)	0.300000
+7e23c2823eba490a4c54f54634de2429	k__Metazoa;p__Chordata;c__Aves;o__Galliformes;f__Phasianidae;g__Gallus;s__Gallus gallus (chicken)(remove)	1.000000
+ed365ba60c8ac19cd47568f1ec4227e8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+6a1d4db3b2ae74966ecf6f63fa51772a	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+3785dda9e2b372049c99192233df8628	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+95de92f8a2e3c4b78ef458b4c85553e6	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+7427945dca61eb4add31b08f162ab4ff	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+53480234fcb8f82a08159493676b1a23	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+e8340a53c389aea3d89416068ce803a7	Unclassified(remove)	0.000000
+92ad36bd5c7001752127f6a52117407c	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	0.200000
+780bd0d7cc706999470ccf0dae767c98	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+c6ceabe5a1e09a5ec1406fcb5a9b1623	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+7b3df61f9e3bdeca05cd9f7faebc6286	Unclassified(remove)	0.000000
+ae4ed1411359218dc9b28b88f592c604	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+1f6406da6000dcb1c6355e2943db65ae	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Alosa;s__Alosa pseudoharengus (alewife)	1.000000
+cc1a2d6d16e472c7fdbf1e1478e9718c	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+0d5b3d216da937a6cf1c6a7f5d5dd1b0	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+2ff425b185bb77c7643112649a0c1e11	k__Metazoa;p__Chordata;c__Mammalia;o__Primates;f__Hominidae;g__Homo;s__Homo sapiens (human)(remove)	1.000000
+363caa2248a2428539edf274835c0265	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Gadus;s__Gadus morhua (Atlantic cod)	0.800000
+05cd0436f5052345c3b3b0cd4097659e	Unclassified(remove)	0.000000
+597a5ec31293446b7e9ed1c84a2f31a8	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+dc5def7f5eea14edcf94d95db0f2289a	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	0.400000
+09507c79eac39ae4b2196c3d12bea62f	k__Metazoa;p__Chordata;c__Aves;o__Charadriiformes;f__Laridae;g__Larus;s__Larus argentatus (herring gull)	0.200000
+6f41e92754336baea32e022f2fc6526a	k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder)	1.000000
+a84d62c7dc86239e7b0532bafadeec46	k__Metazoa;p__Chordata;c__Mammalia;o__Rodentia;f__Dipodidae;g__Euchoreutes;s__Euchoreutes naso (Long-eared jerboa)(remove)	0.500000
+7a8794ea8b106557faef9321be534e38	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+51082fe55c386067a139ebe2c9d6c45e	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+7364ce58526f19bee3789d1b758df61f	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+1e597fb59a108c4d8f80bfbe25a9af4a	k__Metazoa;p__Chordata;c__Mammalia;o__Rodentia;f__Cricetidae;g__Ondatra;s__Ondatra zibethicus (muskrat)(remove)	0.400000
+a40d48c785275464e727d6191f5da891	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+27ec5c15c6d3dba37e3143442d8a9e38	Unclassified(remove)	0.000000
+0b60b92bce905dd92a2bb315a458c875	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Clupea;s__Clupea harengus (Atlantic herring)	1.000000
+76707392d00788d176bf8b14c895ed51	k__Metazoa;p__Chordata;c__Actinopteri;o__unclassified Actinopteri order;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass)	0.500000
+d26dfa9473ddefc80f39b9835f53a24d	k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside)	1.000000
+b75a40e3cfd082a0e376a9dc3fc5deb8	k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog)	1.000000
+0d386f578f3715c4086b301ad3e13dcc	Unclassified(remove)	0.000000
+ebfaf9df338c2f49e703c67ee02b4d59	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+3e7b851f80f86b495a0d7ec3556888da	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+bd1047dfc75957ae3fbc1db0c0275b5c	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+d96a04b3a6ebc99992fe6570f57f2ec3	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Pholidae;g__Pholis;s__Pholis gunnellus (rock gunnel)	0.400000
+61a70adc113738ade9c4587e1612caef	k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden)	0.400000
+f5ddf18631a26ba87e37f2237b252f73	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout)	0.300000
+85be12e7422f4f84aa4f107b9adaf943	k__Metazoa;p__Chordata;c__Actinopteri;o__Acipenseriformes;f__Acipenseridae;g__Acipenser;s__Acipenser oxyrinchus (Atlantic sturgeon)	0.500000
+644cafdf8aeb52cb9245843f37eb0922	k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod)	0.200000
+da05ebda5cbe1547a59a9c1a22c90527	k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Agonidae;g__Hemitripterus;s__Hemitripterus americanus (sea raven)	0.100000

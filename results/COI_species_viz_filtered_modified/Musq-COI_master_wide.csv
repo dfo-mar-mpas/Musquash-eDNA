@@ -1,0 +1,346 @@
+Taxonomy,Species,Zone_1_2025 MS_Ler,Zone_2A_2025 MS_Ler,Zone_2B_2025 MS_Ler,Zone_3_2025 MS_Ler,Zone_1_2024 MS_Ler,Zone_2A_2024 MS_Ler,Zone_2B_2024 MS_Ler,Zone_3_2024 MS_Ler,Zone_1_2023 NS_LerXT,Zone_2A_2023 NS_LerXT,Zone_2B_2023 NS_LerXT,Zone_3_2023 NS_LerXT,Zone_1_2022 NS_LerXT,Zone_2A_2022 NS_LerXT,Zone_2B_2022 NS_LerXT,Zone_3_2022 NS_LerXT,Reinhart et al. (2025),Cooper & Blanchard (2023),Singh et al. (2000)
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Polydora;s__Polydora cornuta (polychaetes),Polydora cornuta,47,5,0,0,73683,184,19,24,45599,66247,0,24,976,968,0,0,0,1,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__;f__Capitellidae;g__Capitella;s__Capitella capitata (polychaetes),Capitella capitata,0,0,0,0,0,0,0,0,45,85,0,0,0,20460,16,34276,0,1,1
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Pectinida;f__Anomiidae;g__Heteranomia;s__Heteranomia squamula (bivalves),Heteranomia squamula,5375,6372,3866,4289,1146,3725,1381,1810,1189,5311,1631,6072,159,2020,1225,3977,0,1,0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Electridae;g__Electra;s__Electra pilosa (bryozoans),Electra pilosa,468,730,106,460,3404,6020,10066,4463,2,3466,1613,7238,616,4289,2301,2204,1,0,1
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Amphibalanus;s__Amphibalanus improvisus (acorn barnacles),Amphibalanus improvisus,16,14,6,3,5580,6115,0,0,2251,6825,0,5999,467,10,0,198,0,1,1
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Membraniporidae;g__Membranipora;s__Membranipora membranacea (bryozoans),Membranipora membranacea,605,774,495,602,1487,3157,36,12258,0,667,61,2623,492,42,4,609,1,0,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Mytilida;f__Mytilidae;g__Modiolus;s__Modiolus modiolus (northern horsemussel),Modiolus modiolus,0,0,0,0,0,0,0,0,0,49,1702,17884,0,40,60,58,1,0,1
+k__Metazoa;p__Annelida;c__Polychaeta;o__Sabellida;f__Sabellariidae;g__Sabellaria;s__Sabellaria vulgaris (polychaetes),Sabellaria vulgaris,84,30,531,17,18,43,5,9,11,2127,3969,9137,0,12,10,9,0,1,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Temoridae;g__Eurytemora;s__Eurytemora affinis (copepods),Eurytemora affinis,0,0,0,0,0,0,0,0,12356,1900,0,0,947,17,0,0,0,0,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Hartlaubella;s__Hartlaubella gelatinosa (hydrozoans),Hartlaubella gelatinosa,505,46,32,39,7119,248,21,23,1297,4632,32,118,532,61,4,9,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Eunicida;f__Lumbrineridae;g__Ninoe;s__Ninoe nigripes (polychaetes),Ninoe nigripes,0,15,3,8,11,59,8,26,16,13159,62,72,0,0,0,0,0,1,1
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Balanus;s__Balanus crenatus (acorn barnacles),Balanus crenatus,0,0,0,0,2,21,9,7,10229,27,20,10,0,0,0,0,1,1,1
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Paracalanidae;g__Paracalanus;s__Paracalanus parvus (copepods),Paracalanus parvus,0,362,54,0,0,644,44,0,435,2704,156,2720,83,299,69,314,0,0,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Centropagidae;g__Centropages;s__Centropages typicus (copepods),Centropages typicus,0,0,0,0,0,0,5,25,764,973,1016,4540,17,103,17,168,1,1,0
+k__Metazoa;p__Echinodermata;c__Echinoidea;o__Clypeasteroida;f__Echinarachniidae;g__Echinarachnius;s__Echinarachnius parma (sand dollars),Echinarachnius parma,4,3,0,0,0,0,0,0,0,0,0,7594,0,0,0,0,0,0,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia longissima (hydrozoans),Obelia longissima,7071,21,6,0,61,92,7,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Ctenophora;c__Tentaculata;o__Cydippida;f__Pleurobrachiidae;g__Pleurobrachia;s__Pleurobrachia pileus (sea gooseberries),Pleurobrachia pileus,0,0,0,0,0,0,0,0,8,234,14,6320,0,0,0,22,0,0,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Cyclopoida;f__Oithonidae;g__Oithona;s__Oithona similis (copepods),Oithona similis,31,9,0,0,14,85,121,146,5,366,1139,1249,393,311,381,1829,1,0,0
+k__Metazoa;p__Nemertea;c__Pilidiophora;o__Heteronemertea;f__Lineidae;g__Siphonenteron;s__Siphonenteron bicolour (heteronemertine worms),Siphonenteron bicolour,0,0,0,0,0,0,0,0,0,0,69,5495,0,0,0,0,0,0,1
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Nuculida;f__Nuculidae;g__Nucula;s__Nucula proxima (atlantic nutclam),Nucula proxima,1214,392,14,27,28,108,14,54,11,83,53,2989,0,0,0,0,1,1,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Venerida;f__Arcticidae;g__Arctica;s__Arctica islandica (bivalves),Arctica islandica,0,0,0,0,0,0,0,0,0,1408,1891,781,0,0,0,0,0,1,0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Alcyonidiidae;g__Alcyonidium;s__Alcyonidium polyoum (bryozoans),Alcyonidium polyoum,73,5,0,7,128,155,21,18,2,13,8,60,32,2087,21,0,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Streblospio;s__Streblospio benedicti (polychaetes),Streblospio benedicti,493,127,0,12,422,771,24,77,106,210,14,2,85,22,0,15,0,1,1
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Clausocalanidae;g__Pseudocalanus;s__Pseudocalanus newmani (copepods),Pseudocalanus newmani,126,0,0,68,0,0,0,0,0,745,1000,170,0,0,0,0,0,0,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Centropagidae;g__Centropages;s__Centropages hamatus (copepods),Centropages hamatus,0,3,0,521,0,983,0,0,0,127,0,329,4,36,0,0,1,0,0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Flustridae;g__Flustra;s__Flustra foliacea (greater hornwrack),Flustra foliacea,10,60,42,97,5,71,78,184,25,107,215,307,16,218,138,319,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cyprinodontiformes;f__Fundulidae;g__Fundulus;s__Fundulus heteroclitus (mummichog),Fundulus heteroclitus,129,37,7,7,591,186,0,10,363,74,0,0,297,8,0,0,0,0,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Haleciidae;g__Halecium;s__Halecium halecinum (hydrozoans),Halecium halecinum,46,266,103,174,6,147,117,196,0,21,27,126,5,118,31,81,0,0,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Sertulariidae;g__Dynamena;s__Dynamena pumila (hydrozoans),Dynamena pumila,29,6,77,45,3,51,67,58,10,176,532,319,3,54,9,14,1,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Gadidae;g__Microgadus;s__Microgadus tomcod (Atlantic tomcod),Microgadus tomcod,201,0,0,5,787,54,0,0,65,77,0,0,69,16,0,0,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Phyllodocida;f__Nereididae;g__Alitta;s__Alitta virens (sandworms),Alitta virens,83,42,28,6,461,358,55,151,6,11,0,0,0,0,0,0,0,1,1
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia dichotoma (sea thread hydroid),Obelia dichotoma,118,14,0,0,383,196,6,7,43,38,13,21,174,0,0,0,0,0,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Clausocalanidae;g__Pseudocalanus;s__Pseudocalanus moultoni (copepods),Pseudocalanus moultoni,0,0,0,0,0,0,0,0,631,0,0,25,0,144,0,213,0,0,0
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Semibalanus;s__Semibalanus balanoides (northern acorn barnacle),Semibalanus balanoides,25,22,18,15,5,66,26,58,65,235,227,68,22,61,19,12,1,1,1
+"k__Metazoa;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Corophiidae;g__Corophium;s__Corophium volutator (beach hoppers, scuds and well shrimps)",Corophium volutator,162,10,0,4,304,103,0,3,0,8,0,19,259,4,0,0,0,1,1
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Laomedea;s__Laomedea flexuosa (hydrozoans),Laomedea flexuosa,468,0,9,12,2,3,0,0,49,12,176,0,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Nudibranchia;f__Polyceridae;g__Palio;s__Palio dubia (gastropods),Palio dubia,0,0,0,0,0,0,0,0,0,0,0,0,0,432,6,10,0,0,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Venerida;f__Mactridae;g__Spisula;s__Spisula solidissima (Atlantic surf clam),Spisula solidissima,0,0,0,0,0,0,0,0,0,129,0,13,0,51,67,183,1,0,0
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Decapoda;f__Carcinidae;g__Carcinus;s__Carcinus maenas (green crab),Carcinus maenas,32,15,2,4,112,140,5,11,27,19,0,0,51,3,0,10,1,1,1
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Obeliidae;g__Obelia;s__Obelia geniculata (knotted thread hydroid),Obelia geniculata,0,21,42,0,0,0,45,11,0,4,0,32,0,0,7,202,0,0,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Clausocalanidae;g__Microcalanus;s__Microcalanus pusillus (copepods),Microcalanus pusillus,0,0,0,0,0,361,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Annelida;c__Clitellata;o__Tubificida;f__Naididae;g__Tubificoides;s__Tubificoides benedii (sludge worms),Tubificoides benedii,16,0,0,0,23,181,0,4,8,27,0,69,17,0,0,0,0,1,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__;f__Maldanidae;g__Clymenella;s__Clymenella torquata (bamboo worm),Clymenella torquata,174,43,9,0,16,59,13,22,0,0,0,0,0,0,0,0,0,1,0
+k__Metazoa;p__Porifera;c__Demospongiae;o__Suberitida;f__Halichondriidae;g__Halichondria;s__Halichondria panicea (sponges),Halichondria panicea,17,8,18,0,29,73,30,21,16,8,36,36,13,0,13,0,1,0,1
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Terebellidae;g__Pista;s__Pista maculata (polychaetes),Pista maculata,0,312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Clausocalanidae;g__Clausocalanus;s__Clausocalanus pergens (copepods),Clausocalanus pergens,0,0,0,0,0,0,0,0,0,0,0,0,32,225,0,39,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__;f__Moronidae;g__Morone;s__Morone saxatilis (striped sea-bass),Morone saxatilis,0,0,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Cypriniformes;f__Catostomidae;g__Catostomus;s__Catostomus commersonii (white sucker),Catostomus commersonii,0,0,0,0,0,0,0,0,200,0,5,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Osmeriformes;f__Osmeridae;g__Osmerus;s__Osmerus mordax (rainbow smelt),Osmerus mordax,68,6,0,6,25,43,18,0,14,6,0,0,10,5,0,0,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Spionida;f__Spionidae;g__Marenzelleria;s__Marenzelleria viridis (polychaetes),Marenzelleria viridis,24,0,0,0,150,0,0,0,0,8,0,13,0,0,0,0,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Terebellidae;g__Nicolea;s__Nicolea zostericola (polychaetes),Nicolea zostericola,0,60,18,21,0,5,33,15,0,0,0,0,0,0,26,14,0,0,0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Littorinidae;g__Littorina;s__Littorina obtusata (gastropods),Littorina obtusata,14,0,0,0,4,25,26,8,0,0,81,14,0,0,0,0,1,1,1
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia tyrannus (Atlantic menhaden),Brevoortia tyrannus,0,2,21,0,27,5,3,5,9,18,69,9,0,0,0,0,0,0,0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Vesiculariidae;g__Amathia;s__Amathia gracilis (bryozoans),Amathia gracilis,15,0,0,3,0,10,9,4,0,0,54,65,0,0,0,7,0,0,0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Littorinidae;g__Littorina;s__Littorina littorea (gastropods),Littorina littorea,0,0,0,0,9,75,6,9,5,0,6,41,0,0,0,0,1,1,1
+k__Metazoa;p__Chordata;c__Mammalia;o__Artiodactyla;f__Phocoenidae;g__Phocoena;s__Phocoena phocoena (harbor porpoise),Phocoena phocoena,4,3,0,0,100,4,0,21,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Cardiida;f__Cardiidae;g__Parvicardium;s__Parvicardium pinnulatum (bivalves),Parvicardium pinnulatum,0,0,0,0,0,0,0,0,0,0,42,85,0,0,0,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Atheriniformes;f__Atherinopsidae;g__Menidia;s__Menidia menidia (Atlantic silverside),Menidia menidia,11,13,0,0,55,33,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Siphonophorae;f__Agalmatidae;g__Nanomia;s__Nanomia cara (siphonophores),Nanomia cara,3,4,5,5,3,0,3,0,0,0,0,0,29,34,5,19,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Scombriformes;f__Scombridae;g__Scomber;s__Scomber scombrus (Atlantic mackerel),Scomber scombrus,0,0,0,0,0,60,6,39,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Echinodermata;c__Echinoidea;o__Camarodonta;f__Strongylocentrotidae;g__Strongylocentrotus;s__Strongylocentrotus droebachiensis (green sea urchin),Strongylocentrotus droebachiensis,0,0,0,0,11,18,40,19,0,0,0,0,0,0,10,3,1,0,1
+k__Metazoa;p__Echinodermata;c__Asteroidea;o__Forcipulatida;f__Asteriidae;g__Leptasterias;s__Leptasterias littoralis (six-rayed sea stars),Leptasterias littoralis,0,2,7,0,0,11,10,0,0,0,43,14,0,0,0,0,0,0,1
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Trichobranchidae;g__Terebellides;s__Terebellides stroemii (polychaetes),Terebellides stroemii,0,0,0,0,0,0,0,0,0,10,25,50,0,0,0,0,0,1,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Pectinida;f__Pectinidae;g__Placopecten;s__Placopecten magellanicus (sea scallop),Placopecten magellanicus,0,0,0,0,0,0,0,0,0,13,34,33,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Myida;f__Myidae;g__Mya;s__Mya arenaria (softshell),Mya arenaria,12,0,0,0,5,20,0,3,0,37,0,0,0,0,0,0,0,1,1
+k__Metazoa;p__Annelida;c__Polychaeta;o__Phyllodocida;f__Nereididae;g__Hediste;s__Hediste diversicolor (sandworms),Hediste diversicolor,6,0,0,4,0,0,0,0,25,3,0,0,33,0,0,0,0,1,1
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Lacunidae;g__Lacuna;s__Lacuna vincta (gastropods),Lacuna vincta,0,6,0,4,0,0,0,0,0,0,58,0,0,0,0,0,1,1,1
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Calycella;s__Calycella syringa (hydrozoans),Calycella syringa,0,7,0,41,0,12,5,0,0,0,0,0,0,0,0,0,0,1,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Phycidae;g__Urophycis;s__Urophycis tenuis (white hake),Urophycis tenuis,0,0,0,0,41,23,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Hydractiniidae;g__Clava;s__Clava multicornis (club hydroid),Clava multicornis,6,0,0,5,11,11,0,0,20,0,0,0,0,0,0,0,1,0,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Tubulariidae;g__Tubularia;s__Tubularia indivisa (hydrozoans),Tubularia indivisa,0,4,0,8,0,0,0,0,0,0,0,13,3,0,0,21,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Flabelligeridae;g__Pherusa;s__Pherusa affinis (polychaetes),Pherusa affinis,0,16,0,5,0,25,0,0,0,0,0,0,0,0,0,0,0,1,0
+k__Metazoa;p__Hemichordata;c__Enteropneusta;o__unclassified Enteropneusta order;f__Harrimaniidae;g__Stereobalanus;s__Stereobalanus canadensis (acorn worms),Stereobalanus canadensis,0,0,0,0,0,20,16,10,0,0,0,0,0,0,0,0,0,1,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Cirratulidae;g__Dodecaceria;s__Dodecaceria concharum (polychaetes),Dodecaceria concharum,17,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Littorinidae;g__Littorina;s__Littorina saxatilis (gastropods),Littorina saxatilis,7,0,0,13,7,14,0,0,0,0,0,0,0,0,0,0,1,1,1
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Campanulariidae;g__Gonothyraea;s__Gonothyraea loveni (hydrozoans),Gonothyraea loveni,12,0,0,0,23,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Arthropoda;c__Hexanauplia;o__Calanoida;f__Metridinidae;g__Metridia;s__Metridia lucens (copepods),Metridia lucens,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,37,1,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Pleuronectiformes;f__Pleuronectidae;g__Pseudopleuronectes;s__Pseudopleuronectes americanus (winter flounder),Pseudopleuronectes americanus,0,9,0,0,0,0,0,0,0,0,0,0,0,0,12,18,0,1,0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Bugulidae;g__Dendrobeania;s__Dendrobeania murrayana (bryozoans),Dendrobeania murrayana,0,7,0,5,0,2,12,13,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Nematoda;c__Chromadorea;o__Monhysterida;f__Xyalidae;g__Daptonema;s__Daptonema setosum (roundworms),Daptonema setosum,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Nemertea;c__Pilidiophora;o__Heteronemertea;f__Lineidae;g__Lineus;s__Lineus viridis (heteronemertine worms),Lineus viridis,0,0,0,0,0,0,0,0,10,0,23,0,0,0,0,0,1,0,0
+"k__Metazoa;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Gammaridae;g__Gammarus;s__Gammarus lawrencianus (beach hoppers, scuds and well shrimps)",Gammarus lawrencianus,0,0,0,0,0,0,0,0,25,7,0,0,0,0,0,0,0,0,1
+k__Metazoa;p__Annelida;c__Polychaeta;o__unclassified Polychaeta order;f__Opheliidae;g__Ophelina;s__Ophelina acuminata (polychaetes),Ophelina acuminata,0,0,0,0,0,6,6,15,0,0,0,0,0,0,0,0,0,1,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Sternaspidae;g__Sternaspis;s__Sternaspis scutata (polychaetes),Sternaspis scutata,0,0,0,0,3,16,0,0,0,0,0,0,0,0,0,0,0,1,1
+"k__Metazoa;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Talitridae;g__Orchestia;s__Orchestia grillus (beach hoppers, scuds and well shrimps)",Orchestia grillus,9,0,0,2,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Leptothecata;f__Clytiidae;g__Clytia;s__Clytia hemisphaerica (hydrozoans),Clytia hemisphaerica,0,0,0,0,3,11,5,2,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Arthropoda;c__Thecostraca;o__Balanomorpha;f__Balanidae;g__Balanus;s__Balanus balanus (acorn barnacles),Balanus balanus,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,0,1,0,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Mytilida;f__Mytilidae;g__Mytilus;s__Mytilus edulis (blue mussel),Mytilus edulis,0,0,0,0,0,0,0,0,0,4,0,10,0,0,0,0,1,1,1
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Bougainvilliidae;g__Bougainvillia;s__Bougainvillia muscus (hydrozoans),Bougainvillia muscus,0,0,0,0,0,0,0,0,0,0,0,0,4,13,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Chondrichthyes;o__Squaliformes;f__Squalidae;g__Squalus;s__Squalus acanthias (spiny dogfish),Squalus acanthias,6,0,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Phyllodocida;f__Syllidae;g__Myrianida;s__Myrianida prolifera (polychaetes),Myrianida prolifera,6,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Annelida;c__Polychaeta;o__Terebellida;f__Terebellidae;g__Polycirrus;s__Polycirrus eximius (polychaetes),Polycirrus eximius,0,0,0,0,0,6,2,7,0,0,0,0,0,0,0,0,0,1,0
+"k__Metazoa;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Corophiidae;g__Monocorophium;s__Monocorophium insidiosum (beach hoppers, scuds and well shrimps)",Monocorophium insidiosum,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+k__Metazoa;p__Arthropoda;c__Branchiopoda;o__Diplostraca;f__Podonidae;g__Evadne;s__Evadne nordmanni (water fleas),Evadne nordmanni,0,10,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Bivalvia;o__Nuculanida sp.;f__Yoldiidae;g__Yoldia;s__Yoldia limatula (file yoldia),Yoldia limatula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,1,0
+k__Metazoa;p__Cnidaria;c__Hydrozoa;o__Anthoathecata;f__Pandeidae;g__Leuckartiara;s__Leuckartiara octona (hydrozoans),Leuckartiara octona,0,0,0,0,0,9,3,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Cheilostomatida;f__Candidae;g__Caberea;s__Caberea ellisii (bryozoans),Caberea ellisii,0,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+k__Metazoa;p__Bryozoa;c__Gymnolaemata;o__Ctenostomatida;f__Vesiculariidae;g__Amathia;s__Amathia imbricata (bryozoans),Amathia imbricata,3,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Euphausiacea;f__Euphausiidae;g__Meganyctiphanes;s__Meganyctiphanes norvegica (krill),Meganyctiphanes norvegica,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Anguilliformes;f__Anguillidae;g__Anguilla;s__Anguilla rostrata (American eel),Anguilla rostrata,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Gadiformes;f__Merlucciidae;g__Merluccius;s__Merluccius bilinearis (silver hake),Merluccius bilinearis,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Labriformes;f__Labridae;g__Tautogolabrus;s__Tautogolabrus adspersus (cunner),Tautogolabrus adspersus,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Cephalopoda;o__Oegopsida;f__Ommastrephidae;g__Illex;s__Illex coindetii (arrow squids),Illex coindetii,0,3,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Echinodermata;c__Asteroidea;o__Spinulosida;f__Echinasteridae;g__Henricia;s__Henricia sanguinolenta (starfishes),Henricia sanguinolenta,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Perciformes;f__Zoarcidae;g__Zoarces;s__Zoarces americanus (ocean pout),Zoarces americanus,0,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Arthropoda;c__Malacostraca;o__Mysida;f__Mysidae;g__Neomysis;s__Neomysis americana (opossum shrimps),Neomysis americana,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Nudibranchia;f__Onchidorididae;g__Onchidoris;s__Onchidoris muricata (gastropods),Onchidoris muricata,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Mollusca;c__Gastropoda;o__Littorinimorpha;f__Calyptraeidae;g__Crepidula;s__Crepidula plana (eastern white slippersnail),Crepidula plana,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+k__Metazoa;p__Chordata;c__Actinopteri;o__Clupeiformes;f__Clupeidae;g__Brevoortia;s__Brevoortia patronus (Gulf menhaden),Brevoortia patronus,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Pygospio elegans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+,Anomia simplex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+,Euspira heros,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+,Enchytraeus albidus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,Crangon septemspinosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Glycera dibranchiata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Goniada maculata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Scolelepis squamata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Marinogammarus obtusatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Margarites helicinus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Harmothoe imbricata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Asterias rubens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,Mancocuma stellifera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Macoma balthica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Hiatella arctica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Chiridotea coeca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,Paraonis fulgens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Buccinum undatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,Celleporella hyalina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Leptocheirus pinguis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Spiophanes bombyx,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Oxyurostylis smithi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Gammarus oceanicus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,Adalaria proxima,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Flustrellidra hispida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,Protodorvillea kefersteini,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Ecrobia truncata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Eteone longa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Diastylis sculpta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Fabricia stellaris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+,Eulalia viridis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Nuculana tenuisulcata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ophiopholis aculeata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Orchestia gammarellus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Vertebrata lanosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Stygocapitella subterranea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Oerstedia dorsalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Vertebrata nigra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Sthenelais limicola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Sternaspis fossor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Spyridia filamentosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Owenia fusiformis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Yoldia myalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Nucella lapillus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Yoldiella nana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Vertebrata fucoides,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Unciola irrorata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Urticina felina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ulva compressa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Tubulipora liliacea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Trichobranchus glacialis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Tonicella marmorea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Ulva clathrata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Spongomorpha aeruginosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Thyasira flexuosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ulva intestinalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ulonema rhizophorum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Onoba aculeus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ulva lactuca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ophelia bicornis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ulva linza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Testudinalia testudinalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ulva prolifera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Thyasira gouldii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Prionospio cirrifera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Pagurus acadianus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Scalibregma inflatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Phyllodoce mucosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Saccoglossus kowalevskii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Pitar morrhuanus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Saccharina latissima,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Rama rupestris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Pylaiella littoralis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Polycirrus medusa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Psolus fabricii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Polydora websteri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Polygordius jouinae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Protodriloides chaetifer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Polyides rotunda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Polysiphonia stricta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Pontogeneia inermis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Pontoporeia femorata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Porphyra purpurea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Porphyra umbilicalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Nereis zonata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Praxillella praetermissa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Phyllodoce maculata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Phyllodoce groenlandica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Spio setosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Phycodrys rubens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Pagurus arcuatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Pagurus longicarpus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Spio filicornis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Palmaria palmata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Skeneopsis planorbis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Priapulus caudatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Paranais litoralis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Petalonia fascia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Scytosiphon dotyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Scoloplos armiger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Scoloplos acutus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Scoletoma tenuis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Scoletoma laurentiana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Pholis gunnellus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Scoletoma fragilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Pholoe minuta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Phoronis muelleri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Phoronis psammophila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Phoxocephalus holbolli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Scytosiphon lomentaria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Acrosiphonia sonderi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Nephtys longosetosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Chondria baileyana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Cancer borealis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Cancer irroratus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Caprella mutica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Carradoriella denudata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ceramium ciliatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ceramium cimbricum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ceramium deslongchampsii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ceramium diaphanum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ceramium virgatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Cerebratulus lacteus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Chaetomorpha linum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Chaetomorpha melagonium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Chalinula loosanoffi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Chondrus crispus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Echinogammarus finmarchicus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Conopeum reticulum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Corallina officinalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Cossura longocirrata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Crassicorophium crassicorne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Crucibulum striatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Cucumaria frondosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Cystoclonium purpureum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Dendronotus frondosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Desmarestia aculeata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Dictyosiphon foeniculaceus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Dipolydora quadrilobata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Dulichia porrecta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Dumontia contorta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Calliopius laeviusculus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Calanus finmarchicus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Bradabyssa villosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Bostrichobranchus pilularis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Aeolidia papillosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Agardhiella subulata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Agarum clathratum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ahnfeltia plicata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Akanthophoreus gracilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Alaria esculenta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Alcyonidium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Alitta succinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ameritella agilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ampelisca abdita,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ampelisca vadorum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ampharete acutifrons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ampharete finmarchica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ampithoe rubricata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Anobothrus gracilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Anomia peruviana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Antithamnion cruciatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Apistobranchus tullbergi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Apistobranchus typicus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Argissa hamatipes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Aricidea catherinae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Aricidea suecica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ascophyllum nodosum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Asterias forbesi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Astyris lunata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Aulactinia stella,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Boreochiton ruber,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Dyopedos monacanthus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ectocarpus fasciculatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Nephtys incisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Lineus ruber,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Hyale nilssoni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Hyale prevostii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Hydrallmania falcata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Hypnea musciformis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Idotea baltica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ilyanassa trivittata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Jaera albifrons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Kurtiella planulata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Lacuna pallidula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Laminaria digitata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Leathesia marina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Levinsenia gracilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Limneria undata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Lumbricillus lineatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Ectocarpus siliculosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Lumbrineris tetraura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Manayunkia aestuarina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Margarites costalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Mastocarpus stellatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Mediomastus ambiseta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Metridia longa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Metridium senile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Molgula arenata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Musculus discors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Mysis stenolepis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Naineris quadricuspida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Nephtys caeca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Nephtys ciliata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Homarus americanus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Haliclona oculata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Halichondria bowerbanki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Halecium beanii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Edotia triloba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Edwardsia elegans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Einhornia moskvikvendi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Elachista fucicola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Electra monostachys,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Enipo torelli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ennucula tenuis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Ensis leei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Eteone flava,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Eucratea loricata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Eudorella truncatula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Eusyllis blomstrandi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Euthora cristata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Exogone dispar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Farrella repens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Fucus distichus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Fucus spiralis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Fucus vesiculosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Furcellaria lumbricalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Galathowenia oculata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Gammarellus angulosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Gammarus lacustris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Gammarus mucronatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Gammarus setosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Globobulimina auriculata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Glycera capitata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,Gracilaria vermiculophylla,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Leitoscoloplos fragilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
